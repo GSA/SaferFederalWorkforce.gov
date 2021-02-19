@@ -35,7 +35,7 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 
 ## Key Functionality
 
-This repository contains the following examples and functionality:
+This original repository commit contains the following examples and functionality:
 
 ✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
 
@@ -180,3 +180,132 @@ docker-compose run ruby bundle exec htmlproofer _site; npx a11y '_site/**/*.html
 - [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
 - [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
 - [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov)
+
+## One-time local setup for Mac users
+
+This is the "advanced" setup option for developers who want to host the Jekyll site natively in Node instead of Docker containers.  It will require local admin privileges.
+
+### Homebrew
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Note: you may need to supply your Mac password several times as this runs to verify local Admin actions.
+
+### Git, Node, Npm
+
+```bash
+brew install git
+brew install node
+brew install npm
+```
+
+First time setup for Git:
+
+```bash
+git config --global user.name "John Doe"
+git config --global user.email johndoe@gsa.gov
+git config --global pull.rebase true
+```
+
+### Chruby and Ruby-Install
+
+```bash
+brew install chruby ruby-install
+```
+
+### Ruby
+
+```bash
+ruby-install ruby 2.6.6
+```
+
+After Ruby is installed, add these 2 lines on ~/.bash_profile. If you're using ZSH as your shell, add these to ~/.zshrc.
+
+```txt
+source /usr/local/opt/chruby/share/chruby/chruby.sh
+source /usr/local/opt/chruby/share/chruby/auto.sh
+```
+
+To get to the editor of .zshrc:
+
+1. Right-click on Finder and select “Go to Folder” or `Ctrl+Shift+G` if already open, then type in `~`
+2. `Cmd+Shift+.` to show hidden files
+3. Double click on `.zshrc`
+
+To use a specific version of Ruby:
+
+```bash
+chruby 2.6.6
+```
+
+#### Troubleshooting Ruby
+
+You may need to install xcode files before installing Jekyll or Ruby, but probably not
+
+```bash
+xcode-select --install
+```
+
+If you have a `brew` installed version of Ruby in your path, it may conflict with a `ruby-install` version.
+
+```bash
+brew uninstall ruby
+```
+
+Also remove references to the `/usr/local/ruby` paths in `.zshrc` file.
+
+### Jekyll
+
+```bash
+gem install --user-install bundler jekyll
+```
+
+### Local repo setup
+
+To make a local copy of the repository, where you will work until you’re ready to share and merge:
+
+1. Create /Users/(yourusername)/Repos folder + add to Favorites (drag to Favorites)
+2. Fork the repo from the GitHub page (skip this step if you are not using the Fork method)
+3. Copy Clone information from the GitHub repo
+4. We’ll clone from Terminal in VS Code setup, which will auto-set your access token
+
+### Setup Visual Studio Code
+
+1. Install Visual Studio Code from GSA Server Service app
+2. Shift+Cmd+P, then >`View: Toggle Integrated Terminal` and then `cd Repos` at the terminal prompt
+3. Clone the repo:
+
+  ```bash
+  #if forked:
+  git clone https://github.com/(username)/SaferFederalWorkforce.gov.git
+
+  # if direct:
+  git clone https://github.com/GSA/SaferFederalWorkforce.gov.git
+
+  # enter GitHub credentials if prompted
+  ```
+
+### Create first Git feature branch
+
+Some helpful Git commands
+
+- `git status` will show you what branch you are currently on
+- `git branch` will show you what branches are available on local copy of repo
+- `git branch -r` will show you what branches are available on remote copy of repo
+
+Create new branch from current branch and checkout for editing:
+
+```bash
+git checkout -b my-feature-branch
+```
+
+You can now edit that branch as needed.  See online help for more information about committing changes in Visual Studio Code and with Git command line.  This blog article is helpful for newbies:
+[Making your first GitHub contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940).
+
+## References
+
+- [18F Laptop setup](https://engineering.18f.gov/laptop-setup)
+- [Federalist](https://federalist.18f.gov)
+- [Federalist Jekyll Template](https://github.com/18F/federalist-uswds-jekyll#readme)
