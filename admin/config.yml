@@ -4,7 +4,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: main
+  branch: vNext
 
 media_folder: assets/uploads
 public_folder: /images/uploads
@@ -30,4 +30,5 @@ collections:
           dateFormat: 'MMMM D, YYYY',
           timeFormat: false
         }
+      - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
