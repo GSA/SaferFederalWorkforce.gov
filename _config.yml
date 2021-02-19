@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
-twitter: PIFgov
+#twitter: PIFgov
 
 #################################################################
 #
@@ -76,45 +76,45 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+#  - name: Blog
+#    url: /blog/
+  - name: FAQ
+    url: /faq/
+#  - name: Document with sidenav
+#    url: /document-with-sidenav/
+#  - name: Document submenu
+#    children:
+#      - name: Navigation link
+#        url: "#main-content"
+#      - name: Navigation link
+#        url: "#main-content"
+#      - name: Navigation link
+#        url: "#main-content"
 
-secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+#secondary_navigation:
+#  - name: Secondary link
+#    url: "#main-content"
+#  - name: Another secondary link
+#    url: "#main-content"
 
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov:
+#searchgov:
 
   # You should not change this.
-  endpoint: https://search.usa.gov
+  #endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: federalist-uswds-example
+  #affiliate: federalist-uswds-example
 
   # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  #access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  #inline: true
 
 ##########################################################################################
 # The values below here are more advanced and should only be
