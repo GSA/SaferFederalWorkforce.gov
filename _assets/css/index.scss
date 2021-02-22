@@ -22,6 +22,12 @@
   }
 }
 
+.usa-prose {
+
+  p, ul li, ol li {
+    max-width: unset;
+  }
+}
 
 // default mode hide banner
 .usa-banner__content {
