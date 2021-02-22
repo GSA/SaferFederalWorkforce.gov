@@ -15,9 +15,13 @@
 //  background-size: cover;
 //}
 
-/*
-  Add your SASS/CSS here
-*/
+.usa-graphic-list__heading {
+  a {
+    color: unset;
+    text-decoration: unset;
+  }
+}
+
 
 // default mode hide banner
 .usa-banner__content {

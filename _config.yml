@@ -78,10 +78,10 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Key Areas of Safety
-    url: /safety/
-  - name: About the Task Force
+  - name: Overview
     url: /about/
+  - name: Key Areas
+    url: /safety/
 #  - name: Blog
 #    url: /blog/
 #  - name: Document submenu
