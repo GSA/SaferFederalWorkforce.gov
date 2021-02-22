@@ -1,27 +1,32 @@
-<footer class="usa-footer site-footer" role="contentinfo">
-  <div class="footer-section-bottom bg-base-lighter">
+<footer class="usa-footer usa-footer--slim">
+  <div class="usa-footer__primary-section">
+    <div class="usa-footer__primary-container grid-row">
+      <div class="grid-col-auto">
+        <address class="usa-footer__address">
+          <div class="usa-footer__contact-info">
+            For questions or comments, email the Safer Federal Workforce Task Force at
+            <a href="mailto:saferfederalworkforce@gsa.gov">SaferFederalWorkforce@gsa.gov</a>
+          </div>
+        </address>
+      </div>
+    </div>
+  </div>
+  <div class="usa-footer__secondary-section">
     <div class="grid-container">
-      <div class="grid-row padding-3">
-        <div class="tablet:grid-col">
-          <div class="logo-links">
-            <a class="footer-logo media_link" href="https://gsa.gov">
-              {% asset gsa-logo.svg height="75" alt="GSA" %}
-            </a>
-            <a class="footer-logo media_link" href="https://opm.gov">
-              {% asset opm-logo.png height="75" alt="OPM" %}
-            </a>
+      <div class="usa-footer__logo grid-row grid-gap-1">
+        <div class="grid-col-auto">
+          <div class="usa-footer__logo-img">
+            {% asset gsa-logo.png alt="GSA" %}
           </div>
         </div>
-        <div class="tablet:grid-col">
-          <address class="usa-footer__address">
-            <div class="usa-footer__contact-info grid-row grid-gap">
-              <div class="grid-col-auto">
-                For questions or comments, email the Safer Federal Workforce Task Force at
-                <a href="mailto:saferfederalworkforce@gsa.gov">SaferFederalWorkforce@gsa.gov</a>
-              </div>
-            </div>
-          </address>
+        <div class="grid-col-auto">
+          <div class="usa-footer__logo-img">
+            {% asset opm-logo.png alt="OPM" %}
+          </div>
         </div>
+        <!-- <div class="grid-col-auto">
+          <p class="usa-footer__logo-heading">Safer Federal Workforce Task Force</p>
+        </div> -->
       </div>
     </div>
   </div>
