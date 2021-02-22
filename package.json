@@ -1,6 +1,6 @@
 {
-  "name": "federalist-uswds-jekyll",
-  "version": "1.3.0",
+  "name": "safer-federal-workforce",
+  "version": "0.0.1",
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
@@ -9,8 +9,8 @@
     "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
   },
   "dependencies": {
-    "netlify-cms": "^2.10.78",
-    "uswds": "~2.10.0"
+    "netlify-cms": "^2.10.93",
+    "uswds": "~2.10.1"
   },
   "devDependencies": {
     "a11y": "^0.5.1",

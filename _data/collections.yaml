@@ -4,16 +4,8 @@
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 - name: GSA
   url: https://gsa.gov
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus. 
+  description: General Services Administration 
 
-- name: USDA
-  url: http://usda.gov/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus. 
-
-- name: Performance.gov
-  url: http://performance.gov/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus. 
-
-- name: Login.gov
-  url: https://login.gov
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus. 
+- name: OPM
+  url: http://opm.gov
+  description: Office of Personnel Management
