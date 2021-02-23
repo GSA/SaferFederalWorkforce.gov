@@ -1,0 +1,54 @@
+# Site Navigation
+primary_navigation:
+  - name: Home
+    url: /
+  - name: Overview
+    url: /about/
+  - name: Key Areas
+    url: /safety/
+#  - name: Blog
+#    url: /blog/
+#  - name: Document submenu
+#    children:
+#      - name: Navigation link
+#        url: "#main-content"
+#      - name: Navigation link
+#        url: "#main-content"
+#      - name: Navigation link
+#        url: "#main-content"
+
+#secondary_navigation:
+#  - name: Secondary link
+#    url: "#main-content"
+#  - name: Another secondary link
+#    url: "#main-content"
+
+health-safety:
+  - href: /
+  - href: /safety/accordion/
+  - href: /safety/alert/
+  - href: /safety/banner/
+  - href: /safety/breadcrumb/
+  - href: /safety/button/
+  - href: /safety/button-groups/
+  - href: /safety/card/
+  - href: /safety/collection/
+  - href: /safety/data-visualizations/
+  - href: /safety/footer/
+  - href: /safety/form-controls/
+  - href: /safety/form-templates/
+  - text: Grid
+    href: /utilities/layout-grid/
+  - href: /safety/header/
+  - href: /safety/icons/
+  - href: /safety/identifier/
+  - href: /safety/process-list/
+  - href: /safety/search/
+  - href: /safety/sidenav/
+  - href: /safety/site-alert/
+  - href: /safety/step-indicator/
+  - href: /safety/summary-box/
+  - href: /safety/table/
+  - href: /safety/tag/
+  - href: /safety/tooltip/
+  - href: /safety/typography/

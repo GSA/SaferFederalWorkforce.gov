@@ -74,31 +74,6 @@ dap:
 ga:
   # ua: your-ua
 
-# Site Navigation
-primary_navigation:
-  - name: Home
-    url: /
-  - name: Overview
-    url: /about/
-  - name: Key Areas
-    url: /safety/
-#  - name: Blog
-#    url: /blog/
-#  - name: Document submenu
-#    children:
-#      - name: Navigation link
-#        url: "#main-content"
-#      - name: Navigation link
-#        url: "#main-content"
-#      - name: Navigation link
-#        url: "#main-content"
-
-#secondary_navigation:
-#  - name: Secondary link
-#    url: "#main-content"
-#  - name: Another secondary link
-#    url: "#main-content"
-
 # Search.gov configuration
 #
 # 1. Create an account with Search.gov https://search.usa.gov/signup
