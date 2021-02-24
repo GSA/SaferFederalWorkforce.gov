@@ -2,18 +2,16 @@
 layout: base
 ---
 
-{% comment %}
-This template is for a single page that does not have a date associated with it. For example, an about page.
-{% endcomment %}
+<div class="usa-layout-docs usa-section">
 
-<div id="main-content" class="usa-layout-docs usa-section">
   <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <main>
-        <div class="usa-layout-docs__main desktop:grid-col usa-prose">
-          {{ content }}
-        </div>
+    <div class="grid-row">
+
+      <main id="main-content" class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
+        {{ content }}
       </main>
+
     </div>
   </div>
+
 </div>
