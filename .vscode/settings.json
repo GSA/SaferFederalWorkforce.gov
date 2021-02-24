@@ -3,12 +3,11 @@
     "files.autoSaveDelay": 3000,
     "search.exclude": {
         "**/_site": true,
-        // "**/node_modules": true,
+        "**/node_modules": true,
         "**/package-lock.json": true,
         "**/.jekyll-cache": true
     },
     "files.exclude": {
-        "_site": true,
         "**/.jekyll-cache": true
     }
 }

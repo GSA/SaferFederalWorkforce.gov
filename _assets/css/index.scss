@@ -15,17 +15,17 @@
 //  background-size: cover;
 //}
 
-.usa-graphic-list__heading {
-  a {
-    color: unset;
-    text-decoration: unset;
-  }
-}
-
 .usa-prose {
 
   p, ul li, ol li {
     max-width: unset;
+  }
+}
+
+.usa-graphic-list__heading {
+  a {
+    color: unset;
+    text-decoration: unset;
   }
 }
 

@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Safer Federal Workforce Task Force is led by the White House COVID-19 Response Team,
   the General Services Administration (GSA), and the Office of Personnel Management (OPM).
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://SaferFederalWorkforce.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
 #twitter: PIFgov
@@ -72,7 +72,7 @@ dap:
 
 # Configuration for Google Analytics
 ga:
-  # ua: your-ua
+  ua: UA-190541972
 
 # Search.gov configuration
 #
@@ -102,6 +102,25 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  health-safety:
+    output: true
+    permalink: /:path/
+  workplace:
+    output: true
+    permalink: /:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: safetyarea
+    values:
+      layout: areanav
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 permalink: pretty
 

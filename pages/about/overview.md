@@ -1,7 +1,7 @@
 ---
+permalink: /about/
 title: About the Safer Federal Workforce Task Force
 layout: page
-sidenav: false
 ---
 
 # Creating a Safer Federal Workforce: A Response to COVID-19
