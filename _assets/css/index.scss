@@ -15,6 +15,10 @@
 //  background-size: cover;
 //}
 
+body {
+  overflow-y: scroll; /*  always show vertical scrollbar to prevent page jerk */
+}
+
 .usa-prose {
 
   p, ul li, ol li {
