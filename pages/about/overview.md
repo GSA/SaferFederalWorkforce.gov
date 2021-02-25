@@ -1,10 +1,10 @@
 ---
-permalink: /about/
-title: About the Safer Federal Workforce Task Force
+permalink: /overview/
+title: Protecting the Federal Workforce and Requiring Mask-Wearing
 layout: page
 ---
 
-# Creating a Safer Federal Workforce: A Response to COVID-19
+# Protecting the Federal Workforce and Requiring Mask-Wearing
 
 The Safer Federal Workforce Task Force is led by the White House COVID-19 Response Team, the General Services Administration (GSA), and the Office of Personnel Management (OPM). Task Force members include: the Centers for Disease Control and Prevention (CDC), the Department of Veterans Affairs (VA), the Federal Emergency Management Agency (FEMA), the Federal Protective Service (FPS), the Office of Management and Budget (OMB), and the United States Secret Service (USSS).
 

@@ -21,7 +21,7 @@
 title: Safer Federal Workforce
 email: SaferFederalWorkforce@gsa.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Learn about the Safer Federal Workforce Task Force and how federal agencies can implement 
+  Learn about the Safer Federal Workforce Task Force and how federal agencies can implement
   the Executive Order on Protecting the Federal Workforce and Requiring Mask-Wearing.
   The Safer Federal Workforce Task Force is led by the White House COVID-19 Response Team,
   the General Services Administration (GSA), and the Office of Personnel Management (OPM).
@@ -108,7 +108,9 @@ collections:
   workplace:
     output: true
     permalink: /:path/
-
+  key-areas:
+    output: true
+    permalink: /:path/
 
 defaults:
   - scope:
@@ -190,6 +192,8 @@ exclude:
   # excluded to disable, but may add back later
   - blog
   - search
+  - pages/health-safety
+  - pages/workplace
 
 assets:
   sources:
