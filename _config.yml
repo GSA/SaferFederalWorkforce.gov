@@ -102,12 +102,12 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  health-safety:
-    output: true
-    permalink: /:path/
-  workplace:
-    output: true
-    permalink: /:path/
+  # health-safety:
+  #   output: true
+  #   permalink: /:path/
+  # workplace:
+  #   output: true
+  #   permalink: /:path/
   key-areas:
     output: true
     permalink: /:path/
