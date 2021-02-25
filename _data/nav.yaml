@@ -28,8 +28,8 @@ primary:
 #    url: "#main-content"
 
 health-safety:
-  - text: Overview
-    href: /safety/
+  # - text: Overview
+  #   href: /safety/
   - href: /safety/telework/
   - href: /safety/coordination/
   - href: /safety/masks/
@@ -37,15 +37,15 @@ health-safety:
   - text: More ...
 
 workplace:
-  - text: Overview
-    href: /workplace/
+  # - text: Overview
+  #   href: /workplace/
   - href: /workplace/occupancy/
   - href: /workplace/physical-distancing/
   - text: More ...
 
 key-areas:
-  - text: Overview
-    href: /keyareas/
+  # - text: Overview
+  #   href: /keyareas/
   - text: Labor Relations
     href: /keyareas/labor-relations/
   - href: /keyareas/leave/
