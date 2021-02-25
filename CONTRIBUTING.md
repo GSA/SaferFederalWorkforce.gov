@@ -51,8 +51,6 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 
 - `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
 
-- `blog/index.html` can be edited, but be careful. It will impact the pagination system for the posts. If you do edit the file, be prepared to edit `_config.yml`.  For example, you may need go change configurations for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
-
 - `search/index.html` is used by search.gov.
 
 ## Running the application locally with `node` and `ruby`

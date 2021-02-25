@@ -10,18 +10,8 @@ primary:
 #    url: /safety/
 #  - name: Workplace Operations
 #    url: /workplace/
-#  - name: Blog
-#    url: /blog/
-#  - name: Document submenu
-#    children:
-#      - name: Navigation link
-#        url: "#main-content"
-#      - name: Navigation link
-#        url: "#main-content"
-#      - name: Navigation link
-#        url: "#main-content"
 
-#secondary:
+secondary:
 #  - name: Secondary link
 #    url: "#main-content"
 #  - name: Another secondary link
@@ -37,15 +27,11 @@ health-safety:
   - text: More ...
 
 workplace:
-  # - text: Overview
-  #   href: /workplace/
   - href: /workplace/occupancy/
   - href: /workplace/physical-distancing/
   - text: More ...
 
 key-areas:
-  # - text: Overview
-  #   href: /keyareas/
   - text: Labor Relations
     href: /keyareas/labor-relations/
   - href: /keyareas/leave/
