@@ -8,8 +8,6 @@
         "**/.jekyll-cache": true
     },
     "files.exclude": {
-        "_site": true,
-        "**/node_modules": true,
         "**/.jekyll-cache": true
     }
 }

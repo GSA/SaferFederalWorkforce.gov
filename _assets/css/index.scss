@@ -15,9 +15,23 @@
 //  background-size: cover;
 //}
 
-/*
-  Add your SASS/CSS here
-*/
+body {
+  overflow-y: scroll; /*  always show vertical scrollbar to prevent page jerk */
+}
+
+.usa-prose {
+
+  p, ul li, ol li {
+    max-width: unset;
+  }
+}
+
+.usa-graphic-list__heading {
+  a {
+    color: unset;
+    text-decoration: unset;
+  }
+}
 
 // default mode hide banner
 .usa-banner__content {

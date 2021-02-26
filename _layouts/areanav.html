@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<div class="usa-layout-docs usa-section">
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+
+      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+        {% assign sidenav = site.data.nav[page.category] %}
+        {% if sidenav %}
+        <ul class="site-sidenav usa-sidenav">
+          {% include nav/list.html links=sidenav %}
+        </ul>
+        {% endif %}
+      </aside>
+
+      <main id="main-content" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
+        {% include lead.html text=page.lead %}
+        {{ content }}
+      </main>
+
+    </div>
+  </div>
+
+</div>

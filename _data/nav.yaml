@@ -1,0 +1,44 @@
+# Site Navigation
+primary:
+  - name: Home
+    url: /
+  - name: Overview
+    url: /overview/
+  - name: Key Areas
+    url: /keyareas/
+#  - name: Health & Safety
+#    url: /safety/
+#  - name: Workplace Operations
+#    url: /workplace/
+
+secondary:
+#  - name: Secondary link
+#    url: "#main-content"
+#  - name: Another secondary link
+#    url: "#main-content"
+
+health-safety:
+  # - text: Overview
+  #   href: /safety/
+  - href: /safety/telework/
+  - href: /safety/coordination/
+  - href: /safety/masks/
+  - href: /safety/testing/
+  - text: More ...
+
+workplace:
+  - href: /workplace/occupancy/
+  - href: /workplace/physical-distancing/
+  - text: More ...
+
+key-areas:
+  - text: Labor Relations
+    href: /keyareas/labor-relations/
+  - href: /keyareas/leave/
+  - href: /keyareas/facilities/
+  - text: Mask Wearing Enforcement
+    href: /keyareas/mask-wearing/
+  - href: /keyareas/visitors/
+  - href: /keyareas/signage/
+  - href: /keyareas/building-ops/
+  - href: /keyareas/screening/
