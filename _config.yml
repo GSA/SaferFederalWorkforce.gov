@@ -49,14 +49,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #
 #################################################################
 dap:
-  # agency: your-agency
+  agency: GSA
 
   # Optional
   # subagency: your-subagency
 
 # Configuration for Google Analytics
 ga:
-  ua: UA-190541972
+  ua: G-PB4QRYQ7GG
 
 # Search.gov configuration
 #
