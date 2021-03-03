@@ -19,6 +19,11 @@ body {
   overflow-y: scroll; /*  always show vertical scrollbar to prevent page jerk */
 }
 
+.usa-navbar {
+  height: unset;
+  min-height: 3em;
+}
+
 .usa-prose {
 
   p, ul li, ol li {
