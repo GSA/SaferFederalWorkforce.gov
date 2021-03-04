@@ -15,11 +15,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Twitter handle. Only the handle, not the URL.
 #twitter: PIFgov
 
-# Digital Analytics Program (DAP) configuration is in the Google Analytics platform Tags Manager
+# Digital Analytics Program (DAP)
+dap:
+  agency: GSA
+
+  # Optional
+  # subagency: your-subagency
+
 # Configuration for Google Analytics
 ga:
-  ua: G-QP6E9M12YP
-    #G-PB4QRYQ7GG  # final site
+  ua: G-6BVGKEQVMG
 
 # Search.gov configuration
 #
