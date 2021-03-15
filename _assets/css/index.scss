@@ -15,15 +15,26 @@
 //  background-size: cover;
 //}
 
+// palette colors
+$accent-color: #ff002b;
+$primary-color: #0d449f;
+
+// TEMPLATE
 body {
   overflow-y: scroll; /*  always show vertical scrollbar to prevent page jerk */
 }
 
+// header
+
+
+
+// navigation
 .usa-navbar {
   height: unset;
   min-height: 3em;
 }
 
+// BODY
 .usa-prose {
 
   p, ul li, ol li {
@@ -37,6 +48,18 @@ body {
     text-decoration: unset;
   }
 }
+
+// FOOTER
+.usa-footer__contact-info {
+  a {
+    text-decoration: underline;
+
+    &:hover{
+      color: $primary-color;
+    }
+  }
+}
+
 
 // default mode hide banner
 .usa-banner__content {
