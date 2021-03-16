@@ -54,12 +54,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  # health-safety:
-  #   output: true
-  #   permalink: /:path/
-  # workplace:
-  #   output: true
-  #   permalink: /:path/
   key-areas:
     output: true
     permalink: /:path/
@@ -95,8 +89,6 @@ exclude:
 
   # excluded to disable, but may add back later
   - search
-  - pages/health-safety
-  - pages/workplace
 
 assets:
   sources:

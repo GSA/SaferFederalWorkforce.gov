@@ -3,8 +3,9 @@
   See all at designsystem.digital.gov/documentation/settings
 */
 
-// Example - Override the background image in the hero component using SASS:
-// $theme-hero-image: asset_path("whatever-the-default-is.png");
+// Background image in the hero component
+$theme-hero-image: asset_path("splash.jpg");
+
 // Primary colors
 $theme-color-primary-family: "blue";
 $theme-color-primary-lightest: false;
@@ -29,12 +30,6 @@ $theme-color-secondary-darkest: false;
 
 @import "uswds";
 
-// Example - Override the background image in the hero component using CSS:
-//.usa-hero {
-//  background-image: asset_url("your-image.png")
-//  background-position: 50%;
-//  background-size: cover;
-//}
 
 // TEMPLATE
 
