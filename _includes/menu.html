@@ -1,7 +1,7 @@
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
-      {% asset header.jpg alt="Safer Federal Workforce Logo" %}
+      <a href="/">{% asset header.png alt="Safer Federal Workforce Logo" %}</a>
     </div>
     <button class="usa-menu-btn">Menu</button>
   </div>
@@ -42,7 +42,7 @@
           </li>
           {% endfor %}
         </ul>
-        {% include searchgov/form.html searchgov=site.searchgov %}
+        <!-- {% include searchgov/form.html searchgov=site.searchgov %} -->
       </div>
     </div>
   </nav>

@@ -4,17 +4,17 @@
 */
 
 // Background image in the hero component
-$theme-hero-image: asset_path("splash.jpg");
+$theme-hero-image: asset_path("hero-background.jpg");
 
 // Primary colors
 $theme-color-primary-family: "blue";
 $theme-color-primary-lightest: false;
 $theme-color-primary-lighter: "blue-10";
 $theme-color-primary-light: "blue-30";
-$theme-color-primary:  #0d449f; //"blue-60v";
+$theme-color-primary:  "indigo-cool-70v";
 $theme-color-primary-vivid: "blue-warm-60v";
 $theme-color-primary-dark: "blue-warm-70v";
-$theme-color-primary-darker: #0d449f; //"blue-warm-80v";
+$theme-color-primary-darker: $theme-color-primary; //"blue-warm-80v";
 $theme-color-primary-darkest: false;
 
 // Secondary colors
@@ -22,7 +22,7 @@ $theme-color-secondary-family: "red";
 $theme-color-secondary-lightest: false;
 $theme-color-secondary-lighter: "red-cool-10";
 $theme-color-secondary-light: "red-30";
-$theme-color-secondary: #ff002b; // "red-50";
+$theme-color-secondary: "red-50v"; //"red-50";
 $theme-color-secondary-vivid: "red-cool-50v";
 $theme-color-secondary-dark: "red-60v";
 $theme-color-secondary-darker: "red-70v";
@@ -55,6 +55,10 @@ body {
     img {
       max-height:65px;
       width: auto;
+    }
+
+    a:focus {
+      outline: none;
     }
   }
 }
@@ -89,6 +93,11 @@ body {
 
 .usa-hero__callout .usa-button {
   background-color: color("secondary");
+}
+
+.usa-summary-box__body h4 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 // FOOTER
