@@ -90,10 +90,16 @@ body {
   }
 }
 
+
 // CONTENT
 
 .usa-hero__callout .usa-button {
   background-color: color("secondary");
+}
+
+.usa-summary-box {
+  background-color: unset;
+  border-color: color("primary");
 }
 
 .usa-summary-box__body h4 {
