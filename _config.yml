@@ -15,48 +15,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Twitter handle. Only the handle, not the URL.
 #twitter: PIFgov
 
-#################################################################
-#
-# Digital Analytics Program (DAP) configuration
-#
-# USAID   - Agency for International Development
-# USDA    - Department of Agriculture
-# DOC     - Department of Commerce
-# DOD     - Department of Defense
-# ED      - Department of Education
-# DOE     - Department of Energy
-# HHS     - Department of Health and Human Services
-# DHS     - Department of Homeland Security
-# HUD     - Department of Housing and Urban Development
-# DOJ     - Department of Justice
-# DOL     - Department of Labor
-# DOS     - Department of State
-# DOI     - Department of the Interior
-# TREAS   - Department of the Treasury
-# DOT     - Department of Transportation
-# VA      - Department of Veterans Affairs
-# EPA     - Environmental Protection Agency
-# EOP     - Executive Office of the President
-# GSA     - General Services Administration
-# NASA    - National Aeronautics and Space Administration
-# NARA    - National Archives and Records Administration
-# NSF     - National Science Foundation
-# NRC     - Nuclear Regulatory Commission
-# OPM     - Office of Personnel Management
-# USPS    - Postal Service
-# SBA     - Small Business Administration
-# SSA     - Social Security Administration
-#
-#################################################################
+# Digital Analytics Program (DAP)
 dap:
-  # agency: your-agency
+  agency: GSA
 
   # Optional
   # subagency: your-subagency
 
 # Configuration for Google Analytics
 ga:
-  ua: UA-190541972
+  ua: G-6BVGKEQVMG
 
 # Search.gov configuration
 #
@@ -86,12 +54,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  # health-safety:
-  #   output: true
-  #   permalink: /:path/
-  # workplace:
-  #   output: true
-  #   permalink: /:path/
   key-areas:
     output: true
     permalink: /:path/
@@ -127,8 +89,6 @@ exclude:
 
   # excluded to disable, but may add back later
   - search
-  - pages/health-safety
-  - pages/workplace
 
 assets:
   sources:

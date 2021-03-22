@@ -6,9 +6,10 @@
   projcets. You should replace this badge with your own.
 
   https://circleci.com/
+
+[![CircleCI](https://circleci.com/gh/GSA/SaferFederalWorkforce.gov.svg?style=svg)](https://app.circleci.com/pipelines/github/GSA/SaferFederalWorkforce.gov)
+[![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=GSA/SaferFederalWorkforce.gov)](https://dependabot.com)
 -->
-[![CircleCI](https://circleci.com/gh/GSA/SaferFederalWorkforce.gov.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=GSA/SaferFederalWorkforce.gov)](https://dependabot.com)
 
 The Safer Federal Workforce Task Force is led by the White House COVID-19 Response Team, the General Services Administration (GSA), and the Office of Personnel Management (OPM). Task Force members include: the Centers for Disease Control and Prevention (CDC), the Department of Veterans Affairs (VA), the Federal Emergency Management Agency (FEMA), the Federal Protective Service (FPS), the Office of Management and Budget (OMB), and the United States Secret Service (USSS).
 

@@ -1,6 +1,6 @@
 {
   "name": "safer-federal-workforce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "netlify-cms": "^2.10.100",
-    "uswds": "~2.11.1"
+    "uswds": "~2.10.3"
   },
   "devDependencies": {
     "a11y": "^0.5.1",
