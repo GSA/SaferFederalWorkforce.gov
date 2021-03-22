@@ -38,7 +38,20 @@ body {
   overflow-y: scroll;
 }
 
-// header
+// HEADER
+
+// fixes banner chevron
+@media (min-width: 40em){
+  .usa-banner__button::after,
+  .usa-banner__button[aria-expanded="true"]::after,
+  .usa-banner__button:hover::after,
+  .usa-banner__button:hover[aria-expanded="true"]::after
+  {
+    background: url(../img/chevron.svg) no-repeat center / 1.3128205128ex 0.8ex;
+  }
+}
+
+// MENU
 .usa-header--extended .usa-navbar {
   margin:0;
   padding:0;
