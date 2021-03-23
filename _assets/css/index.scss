@@ -7,14 +7,15 @@
 $theme-hero-image: asset_path("hero-background.jpg");
 
 // Primary colors
-$theme-color-primary-family: "blue";
+
+$theme-color-primary-family: "indigo-cool";
 $theme-color-primary-lightest: false;
-$theme-color-primary-lighter: "blue-10";
-$theme-color-primary-light: "blue-30";
-$theme-color-primary:  "indigo-cool-70v"; //"blue-60";
-$theme-color-primary-vivid: "blue-warm-60v";
-$theme-color-primary-dark: "blue-warm-70v";
-$theme-color-primary-darker: $theme-color-primary; //"blue-warm-80v";
+$theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
+$theme-color-primary-light: "#{$theme-color-primary-family}-30";
+$theme-color-primary:  "#{$theme-color-primary-family}-70v"; //"blue-60";
+$theme-color-primary-vivid: "#{$theme-color-primary-family}-60v";
+$theme-color-primary-dark: "#{$theme-color-primary-family}-80v";
+$theme-color-primary-darker: "#{$theme-color-primary-family}-70v"; //"blue-warm-80v";
 $theme-color-primary-darkest: false;
 
 // Secondary colors
@@ -38,7 +39,7 @@ body {
   overflow-y: scroll;
 }
 
-// HEADER
+// BANNER
 
 // fixes banner chevron
 @media (min-width: 40em) {
@@ -62,7 +63,7 @@ body {
   }
 }
 
-// MENU
+// NAV MENUS
 .usa-header--extended .usa-navbar {
   margin:0;
   padding:0;
@@ -95,6 +96,41 @@ body {
 .usa-header--extended .usa-menu-btn {
   background-color: color("secondary");
   height: 65px;
+}
+
+// SIDE NAV
+.sidenav-mobile {
+
+  @include at-media("desktop") {
+    display: none;
+  }
+
+  .usa-button-list {
+    margin-top: units(4);
+  }
+
+  .usa-button {
+    margin-top: units(1);
+  }
+}
+
+.sidenav {
+  display: none;
+
+  @include at-media("desktop") {
+    display: block;
+    float: left;
+    margin-bottom: units(1);
+    margin-top: units(0);
+    padding-right: units(0);
+    padding-left: units(0);
+  }
+
+  .usa-navigation-submenu {
+    &[aria-hidden="false"] {
+      display: block;
+    }
+  }
 }
 
 
