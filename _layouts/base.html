@@ -4,20 +4,12 @@ The home page uses wide.html layout, since it extends full width of page
 {% endcomment %}
 
 <!DOCTYPE html>
-
 <html lang="en">
-
 {% include meta.html %}
-
 <body>
-  {% include header.html %}
-
-  {% include menu.html primary=site.data.nav.primary secondary=site.data.nav.secondary %}
-
+  {% include banner.html %}
+  {% include navbar.html primary=site.data.nav.primary secondary=site.data.nav.secondary %}
   {{ content }}
-
   {% include footer.html %}
-
 </body>
-
 </html>

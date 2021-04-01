@@ -13,9 +13,17 @@ secondary:
 #  - name: Another secondary link
 #    url: "#main-content"
 
-key-areas:
-  # - text: Overview
-  #   href: /safety/
+mobile:
+  - href: /
+  - text: Overview
+    href: /overview/
+  - text: Key Areas
+    href: /keyareas/
+    collapsible: true
+
+Key Areas:
+  - text: Overview
+    href: /keyareas/
   - text: Labor Relations
     href: /keyareas/labor-relations/
   - href: /keyareas/leave/

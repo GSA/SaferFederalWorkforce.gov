@@ -1,13 +1,13 @@
 <header class="usa-header usa-header--extended" role="banner">
   <div class="usa-navbar">
     <div class="usa-logo" id="extended-logo">
-      <a href="/">{% asset header.png alt="Safer Federal Workforce Logo" %}</a>
+      <a href="{{site.baseurl}}/">{% asset header.png alt="Safer Federal Workforce Logo" %}</a>
     </div>
     <button class="usa-menu-btn">Menu</button>
   </div>
   <nav role="navigation" class="usa-nav">
     <div class="usa-nav__inner">
-      <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
+      <!-- <button class="usa-nav__close">{% asset close.svg alt="close" %}</button> -->
       <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary %}
         {% unless nav_item.children %}
@@ -34,7 +34,7 @@
         {% endunless %}
         {% endfor %}
       </ul>
-      <div class="usa-nav__secondary">
+      <!-- <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary %}
           <li class="usa-nav__secondary-item">
@@ -42,8 +42,19 @@
           </li>
           {% endfor %}
         </ul>
-        <!-- {% include searchgov/form.html searchgov=site.searchgov %} -->
-      </div>
+        {% include searchgov/form.html searchgov=site.searchgov %}
+      </div> -->
     </div>
   </nav>
+
+  <!-- mobile view -->
+  <nav role="navigation" class="usa-nav site-nav sidenav-mobile">
+    <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
+    <div class="usa-nav__inner">
+      <ul class="usa-nav__primary usa-accordion">
+        {% include nav/sections.html sections=site.data.nav.mobile %}
+      </ul>
+    </div>
+  </nav>
+
 </header>
