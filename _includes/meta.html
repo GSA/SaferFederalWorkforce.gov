@@ -24,15 +24,15 @@ site, this is the place to do it.
     {% endif %}
   </title>
 
-  <meta property="og:title" content="{{ page.title | site.title }}">
-  <meta name="description" content="{{ page.lead | site.description}}">
-  <meta property="og:description" content="{{ page.lead | site.description}}">
+  <meta property="og:title" content="{{ site.title}}">
+  <meta name="description" content="{{site.description}}">
+  <meta property="og:description" content="{{site.description}}">
   <meta property="og:image" content="{{site.url}}{% asset social-banner.png @path | remove: '/' %}">
 
   <meta name="twitter:card" content="summary_large_image" />
   <!-- <meta name="twitter:site" content="@{{site.twitter}}" /> -->
-  <meta name="twitter:title" content="{{ page.title | site.title}}" />
-  <meta name="twitter:description" content="{{ page.lead | site.description}}" />
+  <meta name="twitter:title" content="{{site.title}}" />
+  <meta name="twitter:description" content="{{site.description}}" />
 
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
