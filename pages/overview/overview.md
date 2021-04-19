@@ -11,6 +11,9 @@ The Safer Federal Workforce Task Force is led by the White House COVID-19 Respon
 The President created the task force to give the heads of federal agencies ongoing guidance to keep their employees safe and their agencies operating during the COVID-19 pandemic.
 
 - **Read the President’s [Executive Order on Protecting the Federal Workforce and Requiring Mask-Wearing](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing).** It establishes the Safer Federal Workforce Task Force and requires anyone working in or visiting federal buildings or federal lands to wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.
+
 - **Read the OMB memo M-21-15: [COVID-19 Safe Federal Workplace: Agency Model Safety Principles](https://www.whitehouse.gov/wp-content/uploads/2021/01/M-21-15.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** It describes the work of the Safer Federal Workforce Task Force and outlines model safety principles for executive departments and agencies as they build tailored COVID-19 workplace safety plans.
 
-- **Read the CDC's [Federal Testing Plan for Federal Workforce](../../downloads/Federal Testing Recommendations FINAL.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** This guidance provides federal agencies with strategies for incorporating SARS-CoV-2 testing into their COVID-19 workplace safety plan. Each federal agency should apply this guidance according to the situation in its workplace or workforce.
+- **Read the CDC's [Federal Testing Plan for Federal Workforce][1] (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** This guidance provides federal agencies with strategies for incorporating SARS-CoV-2 testing into their COVID-19 workplace safety plan. Each federal agency should apply this guidance according to the situation in its workplace or workforce.
+
+[1]:{{ site.baseurl }}/downloads/Federal Testing Recommendations FINAL.pdf
