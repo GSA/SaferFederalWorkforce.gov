@@ -75,6 +75,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+include: 
+  - downloads
+
 exclude:
   - package.json
   - package-lock.json

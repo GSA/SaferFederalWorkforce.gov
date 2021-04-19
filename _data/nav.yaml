@@ -7,12 +7,6 @@ primary:
   - name: Key Areas
     url: /keyareas/
 
-secondary:
-#  - name: Secondary link
-#    url: "#main-content"
-#  - name: Another secondary link
-#    url: "#main-content"
-
 mobile:
   - href: /
   - text: Overview
@@ -28,8 +22,8 @@ Key Areas:
     href: /keyareas/labor-relations/
   - href: /keyareas/leave/
   - href: /keyareas/facilities/
-  - text: Mask Wearing Enforcement
-    href: /keyareas/mask-wearing/
+  - href: /keyareas/mask-wearing/
+    text: Mask Wearing Enforcement
   - href: /keyareas/visitors/
   - href: /keyareas/signage/
   - href: /keyareas/building-ops/
