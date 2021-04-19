@@ -14,6 +14,4 @@ The President created the task force to give the heads of federal agencies ongoi
 
 - **Read the OMB memo M-21-15: [COVID-19 Safe Federal Workplace: Agency Model Safety Principles](https://www.whitehouse.gov/wp-content/uploads/2021/01/M-21-15.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** It describes the work of the Safer Federal Workforce Task Force and outlines model safety principles for executive departments and agencies as they build tailored COVID-19 workplace safety plans.
 
-- **Read the CDC's [Federal Testing Plan for Federal Workforce][1] (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** This guidance provides federal agencies with strategies for incorporating SARS-CoV-2 testing into their COVID-19 workplace safety plan. Each federal agency should apply this guidance according to the situation in its workplace or workforce.
-
-[1]:{{ site.baseurl }}/downloads/Federal Testing Recommendations FINAL.pdf
+- **Read the CDC's [Federal Testing Plan for Federal Workforce]({{ site.baseurl }}/downloads/Federal Testing Recommendations FINAL.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/)).** This guidance provides federal agencies with strategies for incorporating SARS-CoV-2 testing into their COVID-19 workplace safety plan. Each federal agency should apply this guidance according to the situation in its workplace or workforce.
