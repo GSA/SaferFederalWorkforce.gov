@@ -35,7 +35,7 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 
 ## How to edit
 
-- Non-developers should focus on editing markdown content in the `_health-safety` and `_workplace` folders
+- Non-developers should focus on editing markdown content in the `_faq` and `pages` folders
 
 - We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
 

@@ -4,27 +4,28 @@ primary:
     url: /
   - name: Overview
     url: /overview/
-  - name: Key Areas
-    url: /keyareas/
+  - name: FAQs
+    url: /faq/
 
 mobile:
   - href: /
   - text: Overview
     href: /overview/
-  - text: Key Areas
-    href: /keyareas/
+  - text: FAQs
+    href: /faq/
     collapsible: true
 
-Key Areas:
+# Categories
+faq:
   - text: Overview
-    href: /keyareas/
+    href: /faq/
   - text: Labor Relations
-    href: /keyareas/labor-relations/
-  - href: /keyareas/leave/
-  - href: /keyareas/facilities/
-  - href: /keyareas/mask-wearing/
+    href: /faq/labor-relations/
+  - href: /faq/leave/
+  - href: /faq/facilities/
+  - href: /faq/mask-wearing/
     text: Mask Wearing Enforcement
-  - href: /keyareas/visitors/
-  - href: /keyareas/signage/
-  - href: /keyareas/building-ops/
-  - href: /keyareas/screening/
+  - href: /faq/visitors/
+  - href: /faq/signage/
+  - href: /faq/building-ops/
+  - href: /faq/screening/

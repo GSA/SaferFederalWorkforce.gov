@@ -12,18 +12,18 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-  - label: Key Area
-    name: Key Areas
-    folder: _key-areas/
+  - label: FAQs
+    name: faq
+    folder: _faq/
     create: true
     slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - {label: 'Permalink', name: 'permalink', widget: 'string', default: '/keyareas/MYFOLDER/'}
+      - {label: 'Permalink', name: 'permalink', widget: 'string', default: '/faq/MYFOLDER/'}
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'areanav'}
       - {label: 'Type', name: 'type', widget: 'hidden', default: 'safetyarea'}
-      - {label: 'Category', name: 'category', widget: 'hidden', default: 'Key Areas'}
+      - {label: 'Category', name: 'category', widget: 'hidden', default: 'faq'}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Lead", name: "lead", widget: "string"}
       - {
