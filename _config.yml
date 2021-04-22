@@ -52,7 +52,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  key-areas:
+  faq:
     output: true
     permalink: /:path/
 
