@@ -1,6 +1,6 @@
 {
   "name": "safer-federal-workforce",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
