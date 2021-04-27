@@ -1,0 +1,53 @@
+<header class="usa-header usa-header--extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <a href="{{site.baseurl}}/">{% asset header.png alt="Safer Federal Workforce Logo" %}</a>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
+  </div>
+  <nav role="navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <!-- <button class="usa-nav__close">{% asset close.svg alt="close" %}</button> -->
+      <ul class="usa-nav__primary usa-accordion">
+        {% for nav_item in include.primary %}
+        {% unless nav_item.children %}
+        {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
+        {% assign linkdir = nav_item.url | replace: "/", "" | lstrip %}
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+            href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
+        </li>
+        {% else %}
+        {% assign nav_id = 'primary-nav-' | append: forloop.index %}
+        <li class="usa-nav__primary-item">
+          <button class="usa-accordion__button usa-nav__link" aria-expanded="true" aria-controls="{{ nav_id }}">
+            <span>{{ nav_item.name | escape }}</span>
+          </button>
+          <ul id="{{ nav_id }}" class="usa-nav__submenu">
+            {% for subnav_item in nav_item.children %}
+            <li class="usa-nav__submenu-item">
+              <a href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endunless %}
+        {% endfor %}
+      </ul>
+      <!-- <div class="usa-nav__secondary">
+        {% include searchgov/form.html searchgov=site.searchgov %}
+      </div> -->
+    </div>
+  </nav>
+
+  <!-- mobile view -->
+  <nav role="navigation" class="usa-nav site-nav sidenav-mobile">
+    <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
+    <div class="usa-nav__inner">
+      <ul class="usa-nav__primary usa-accordion">
+        {% include nav/sections.html sections=site.data.nav.mobile %}
+      </ul>
+    </div>
+  </nav>
+
+</header>

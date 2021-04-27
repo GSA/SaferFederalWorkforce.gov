@@ -1,0 +1,33 @@
+# Site Navigation
+primary:
+  - name: Home
+    url: /
+  - name: Overview
+    url: /overview/
+  - name: FAQs
+    url: /faq/
+
+mobile:
+  - href: /
+  - text: Overview
+    href: /overview/
+  - text: FAQs
+    href: /faq/
+    collapsible: true
+
+# Categories
+faq:
+  - text: Overview
+    href: /faq/
+  - text: Labor Relations
+    href: /faq/labor-relations/
+  - href: /faq/leave/
+  - href: /faq/facilities/
+  - href: /faq/mask-wearing/
+    text: Mask Wearing Enforcement
+  - href: /faq/visitors/
+  - href: /faq/signage/
+  - href: /faq/building-ops/
+  - href: /faq/screening/
+  - text: Travel
+    href: /faq/travel/

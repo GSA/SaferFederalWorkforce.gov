@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: 18f/federalist-uswds-jekyll
+  repo: GSA/SaferFederalWorkforce.gov
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: main
+  branch: vNext
 
 media_folder: assets/uploads
 public_folder: /images/uploads
@@ -12,18 +12,22 @@ publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-  - label: Posts
-    name: posts
-    folder: _posts/
+  - label: FAQs
+    name: faq
+    folder: _faq/
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
+      - {label: 'Permalink', name: 'permalink', widget: 'string', default: '/faq/MYFOLDER/'}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'areanav'}
+      - {label: 'Type', name: 'type', widget: 'hidden', default: 'safetyarea'}
+      - {label: 'Category', name: 'category', widget: 'hidden', default: 'faq'}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Lead", name: "lead", widget: "string"}
       - {
-          label: "Publish Date",
+          label: "Revised Date",
           name: "date",
           widget: "datetime",
           format: 'MMMM D, YYYY',

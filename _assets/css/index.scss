@@ -3,21 +3,198 @@
   See all at designsystem.digital.gov/documentation/settings
 */
 
-// Example - Override the background image in the hero component using SASS:
-// $theme-hero-image: asset_path("whatever-the-default-is.png");
+// Background image in the hero component
+$theme-hero-image: asset_path("hero-background.jpg");
+
+// Primary colors
+
+$theme-color-primary-family: "indigo-cool";
+$theme-color-primary-lightest: false;
+$theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
+$theme-color-primary-light: "#{$theme-color-primary-family}-30";
+$theme-color-primary:  "#{$theme-color-primary-family}-70v"; //"blue-60";
+$theme-color-primary-vivid: "#{$theme-color-primary-family}-60v";
+$theme-color-primary-dark: "#{$theme-color-primary-family}-80v";
+$theme-color-primary-darker: "#{$theme-color-primary-family}-70v"; //"blue-warm-80v";
+$theme-color-primary-darkest: false;
+
+// Secondary colors
+$theme-color-secondary-family: "red";
+$theme-color-secondary-lightest: false;
+$theme-color-secondary-lighter: "red-cool-10";
+$theme-color-secondary-light: "red-30";
+$theme-color-secondary: "red-50v"; //"red-50";
+$theme-color-secondary-vivid: "red-cool-50v";
+$theme-color-secondary-dark: "red-60v";
+$theme-color-secondary-darker: "red-70v";
+$theme-color-secondary-darkest: false;
 
 @import "uswds";
 
-// Example - Override the background image in the hero component using CSS:
-//.usa-hero {
-//  background-image: asset_url("your-image.png")
-//  background-position: 50%;
-//  background-size: cover;
-//}
 
-/*
-  Add your SASS/CSS here
-*/
+// TEMPLATE
+
+body {
+  /*  always show vertical scrollbar to prevent page jerk */
+  overflow-y: scroll;
+}
+
+// BANNER
+
+// fixes banner chevron
+@media (min-width: 40em) {
+  .usa-banner__button::after,
+  .usa-banner__button[aria-expanded="true"]::after,
+  .usa-banner__button:hover::after,
+  .usa-banner__button:hover[aria-expanded="true"]::after {
+    background: url(../img/chevron.svg) no-repeat center / 1.3128205128ex 0.8ex;
+  }
+}
+
+// fixes banner cheveron mobile view, still TBD
+@media (max-width: 39.99em) {
+  // .usa-banner__button::after,
+  // .usa-banner__button:hover::after {
+  //   background: url(../img/chevron.svg) no-repeat center / 1.3128205128ex 0.8ex;
+  // }
+  .usa-banner__button[aria-expanded="true"]::after {
+    background: url(../img/usa-icons/close.svg) no-repeat center / 1.5rem 1.5rem;
+    background-color: $theme-color-primary;
+  }
+}
+
+// NAV MENUS
+.usa-header--extended .usa-navbar {
+  margin:0;
+  padding:0;
+  height: auto;
+  max-width: unset;
+  border-style: none;
+  background-color: color("primary");
+
+  .usa-logo {
+    margin:0;
+    height:auto;
+    line-height:0;
+    overflow: hidden;
+
+    img {
+      max-height:65px;
+      width: auto;
+    }
+
+    a:focus {
+      outline: none;
+    }
+  }
+}
+
+// .usa-header--extended .usa-nav {
+//   border-style: none;
+// }
+
+.usa-header--extended .usa-menu-btn {
+  background-color: color("secondary");
+  height: 65px;
+}
+
+// SIDE NAV
+.sidenav-mobile {
+
+  @include at-media("desktop") {
+    display: none;
+  }
+
+  .usa-button-list {
+    margin-top: units(4);
+  }
+
+  .usa-button {
+    margin-top: units(1);
+  }
+}
+
+.sidenav {
+  display: none;
+
+  @include at-media("desktop") {
+    display: block;
+    float: left;
+    margin-bottom: units(1);
+    margin-top: units(0);
+    padding-right: units(0);
+    padding-left: units(0);
+  }
+
+  .usa-navigation-submenu {
+    &[aria-hidden="false"] {
+      display: block;
+    }
+  }
+}
+
+
+// BODY
+
+.usa-prose {
+
+  p, ul li, ol li {
+    max-width: unset;
+  }
+}
+
+.usa-graphic-list__heading {
+  a {
+    color: unset;
+    text-decoration: unset;
+  }
+}
+
+.usa-table {
+
+  .text-center {
+    text-align: center;
+  }
+}
+
+
+// CONTENT
+
+.usa-hero__callout .usa-button {
+  background-color: color("secondary");
+}
+
+.usa-summary-box {
+  background-color: unset;
+  border-color: color("primary");
+}
+
+.usa-summary-box__body h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+// FOOTER
+
+.usa-footer--slim .usa-footer__address {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.usa-footer__contact-info {
+  a {
+    text-decoration: underline;
+
+    &:hover{
+      color: color("primary");
+    }
+  }
+}
+
+.usa-footer__secondary-section {
+  background-color: unset;
+}
+
 
 // default mode hide banner
 .usa-banner__content {
