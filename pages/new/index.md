@@ -8,12 +8,12 @@ layout: page
 
 ### May 6, 2021
 
-- [Vaccine-related leave](../faq/Leave/#vaccine-related-leave) guidance for adverse reactions
-- [FAQs for the Emergency Paid Leave (EPL) section of the American Rescue Plan](../faq/Leave/#emergency-paid-leave)
+- [Vaccine-related leave](../faq/leave/#vaccine-related-leave) guidance for adverse reactions
+- [FAQs for the Emergency Paid Leave (EPL) section of the American Rescue Plan](../faq/leave/#emergency-paid-leave)
 
 ### April 23, 2021
 
-- [FAQs for Official Travel for Fully Vaccinated Federal Employees](../faq/Travel/)
+- [FAQs for Official Travel for Fully Vaccinated Federal Employees](../faq/travel/)
 
 ### April 12, 2021
 
