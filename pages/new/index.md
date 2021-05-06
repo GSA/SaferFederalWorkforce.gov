@@ -17,11 +17,11 @@ layout: page
 
 ### April 12, 2021
 
-- [Federal Testing Plan for Federal Workforce](../overview/#federal-testing-plan)
+- [Federal Testing Plan for Federal Workforce](../overview)
 
 ### February 12, 2021
 
-- [FAQs for Executive Order 13991 and OMB memo M-21-15](../overview/#executive-order)
+- [FAQs for Executive Order 13991 and OMB memo M-21-15](../overview)
 
 ### January 20, 2021
 
