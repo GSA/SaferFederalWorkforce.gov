@@ -6,6 +6,8 @@ primary:
     url: /overview/
   - name: FAQs
     url: /faq/
+  - name: What's New?
+    url: /new/
 
 mobile:
   - href: /
@@ -14,6 +16,8 @@ mobile:
   - text: FAQs
     href: /faq/
     collapsible: true
+  - text: What's New?
+    href: /new/
 
 # Categories
 faq:
