@@ -6,7 +6,7 @@ layout: page
 
 # What's New?
 
-### May 6, 2021
+### May 7, 2021
 
 - [Vaccine-related leave](../faq/leave/#vaccine-related-leave) guidance for adverse reactions
 - [FAQs for the Emergency Paid Leave (EPL) section of the American Rescue Plan](../faq/leave/#emergency-paid-leave)
