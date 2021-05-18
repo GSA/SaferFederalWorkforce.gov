@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### May 18, 2021
+
+- [FAQs for Mask-Wearing for Fully Vaccinated People](../faq/mask-wearing/)
+
 ### May 7, 2021
 
 - [Vaccine-related leave](../faq/leave/#vaccine-related-leave) guidance for adverse reactions
