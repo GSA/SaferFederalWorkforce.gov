@@ -8,7 +8,7 @@ layout: page
 
 ### May 18, 2021
 
-- [FAQs for Mask-Wearing for Fully Vaccinated People](../faq/mask-wearing/)
+- [FAQs for Implementing Guidance for Fully Vaccinated People](../faq/mask-wearing/)
 
 ### May 7, 2021
 
