@@ -29,6 +29,7 @@ $theme-color-secondary-dark: "red-60v";
 $theme-color-secondary-darker: "red-70v";
 $theme-color-secondary-darkest: false;
 
+$theme-show-notifications: false;
 @import "uswds";
 
 
@@ -157,10 +158,15 @@ body {
   }
 }
 
-.new-tag {
+.usa-tag:only-of-type {
+  margin-right: 6px;
+}
+
+.new-tag {  // small red "new"
   font-size: 0.7em;
   font-weight: bold;
   color: color("secondary");
+  margin-right: 6px;
 }
 
 
