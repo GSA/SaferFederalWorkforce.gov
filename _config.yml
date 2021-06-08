@@ -8,10 +8,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learn about the Safer Federal Workforce Task Force and how federal agencies can implement
   the Executive Order on Protecting the Federal Workforce during the COVID-19 pandemic.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://SaferFederalWorkforce.gov" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.SaferFederalWorkforce.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
-#twitter: PIFgov
+#twitter: YourTwitterHandle
 
 # Digital Analytics Program (DAP)
 dap:
