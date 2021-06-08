@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### June 8, 2021
+
+- [FAQs for Vaccinations](../faq/vaccinations)
+
 ### May 24, 2021
 
 - Update to [FAQs for Implementing Guidance for Fully Vaccinated People](../faq/mask-wearing/)
