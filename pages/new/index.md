@@ -9,7 +9,6 @@ layout: page
 ### June 10, 2021
 
 - OMB Memo M-21-25: [Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment](https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf)
-- Update to [Building Operations](../faq/building-ops) to reflect change in occupancy guidance
 
 ### June 8, 2021
 
