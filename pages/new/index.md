@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### June 24, 2021
+
+- Update to [FAQs for Official Travel for Fully Vaccinated Federal Employees](../faq/travel/)
+
 ### June 10, 2021
 
 - OMB Memo M-21-25: [Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment](https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf)
