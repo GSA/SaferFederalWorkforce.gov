@@ -97,6 +97,3 @@ assets:
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
-
-sass:
-    style: compressed
