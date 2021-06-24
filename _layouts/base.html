@@ -7,9 +7,9 @@ The home page uses wide.html layout, since it extends full width of page
 <html lang="en">
 {% include meta.html %}
 <body>
-  {% include banner.html %}
-  {% include navbar.html primary=site.data.nav.primary %}
+  {% include_cached banner.html %}
+  {% include_cached navbar.html primary=site.data.nav.primary %}
   {{ content }}
-  {% include footer.html %}
+  {% include_cached footer.html %}
 </body>
 </html>
