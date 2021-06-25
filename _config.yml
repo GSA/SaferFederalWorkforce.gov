@@ -78,6 +78,7 @@ include:
   - downloads
 
 exclude:
+  - .jekyll-cache
   - package.json
   - package-lock.json
   - README.md
