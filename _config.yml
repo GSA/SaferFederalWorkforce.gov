@@ -16,9 +16,7 @@ url: "https://www.SaferFederalWorkforce.gov" # the base hostname & protocol for 
 # Digital Analytics Program (DAP)
 dap:
   agency: GSA
-
-  # Optional
-  # subagency: your-subagency
+  subagency: SaferFederalWorkforceTaskForce
 
 # Configuration for Google Analytics
 ga:
@@ -70,6 +68,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
@@ -78,6 +77,7 @@ include:
   - downloads
 
 exclude:
+  - .jekyll-cache
   - package.json
   - package-lock.json
   - README.md
