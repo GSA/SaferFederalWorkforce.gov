@@ -68,6 +68,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
