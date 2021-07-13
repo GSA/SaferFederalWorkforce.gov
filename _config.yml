@@ -16,9 +16,7 @@ url: "https://www.SaferFederalWorkforce.gov" # the base hostname & protocol for 
 # Digital Analytics Program (DAP)
 dap:
   agency: GSA
-
-  # Optional
-  # subagency: your-subagency
+  subagency: SaferFederalWorkforceTaskForce
 
 # Configuration for Google Analytics
 ga:
