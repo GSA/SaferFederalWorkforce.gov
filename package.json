@@ -1,18 +1,29 @@
 {
   "name": "safer-federal-workforce",
   "version": "1.0.0",
+  "description": "Safer Federal Workforce",
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve --livereload",
-    "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
+    "test-links": "bundle exec htmlproofer --http-status-ignore '999' _site;",
+    "test-a11y": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-find https://www.saferfederalworkforce.gov --sitemap-replace http://localhost:4000 --sitemap-exclude \"/*.pdf\""
   },
+  "author": "Safer Federal Workforce Task Force",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GSA/saferfederalworkforce.gov"
+  },
+  "bugs": {
+    "url": "https://github.com/GSA/saferfederalworkforce.gov/issues"
+  },
+  "license": "CC0-1.0",
   "dependencies": {
     "uswds": "~2.10.3"
   },
   "devDependencies": {
-    "a11y": "^0.5.1",
+    "pa11y-ci": "^2.4.2",
     "rimraf": "^3.0.2"
   }
 }
