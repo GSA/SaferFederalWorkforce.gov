@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### July 29, 2021
+
+- Update to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview)
+
 ### June 24, 2021
 
 - Update to [FAQs for Official Travel for Fully Vaccinated Federal Employees](../faq/travel/)
