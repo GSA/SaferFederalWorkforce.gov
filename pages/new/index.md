@@ -8,7 +8,7 @@ layout: page
 
 ### July 29, 2021
 
-- Update to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview)
+- Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview) and also various new and updated FAQs
 
 ### June 24, 2021
 
