@@ -35,7 +35,7 @@ jobs:
           command: npm run build
       - run: 
           name: Test HTML URLs
-          command: bundle exec htmlproofer --http-status-ignore "999" --url-ignore "/special_category_search" --url-swap "https\://www.saferfederalworkforce.gov:" _site
+          command: bundle exec htmlproofer --http-status-ignore "999" --url-ignore "https://www.gsaadvantage.gov/advantage/ws/search/special_category_search" --url-swap "https\://www.saferfederalworkforce.gov:" _site
 
 workflows:
   version: 2
