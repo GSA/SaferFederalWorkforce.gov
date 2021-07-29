@@ -11,7 +11,6 @@ gem "kramdown-parser-gfm", "~> 1.1.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
-  gem "jekyll-redirect-from"
   gem "jekyll-last-modified-at" # used in sitemap
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
