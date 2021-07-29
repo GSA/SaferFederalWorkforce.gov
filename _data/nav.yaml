@@ -23,6 +23,8 @@ mobile:
 faq:
   - text: Overview
     href: /faq/
+  - href: /faq/local/
+  - href: /faq/testing/
   - text: Labor Relations
     href: /faq/labor-relations/
   - href: /faq/leave/
