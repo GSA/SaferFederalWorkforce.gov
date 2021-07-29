@@ -10,7 +10,7 @@ The Safer Federal Workforce Task Force is led by the White House COVID-19 Respon
 
 The President created the task force to give the heads of federal agencies ongoing guidance to keep their employees safe and their agencies operating during the COVID-19 pandemic.
 
-- <span class="usa-tag">New</span> **Read the [COVID-19 Workplace Safety: Agency Model Safety Principles]({{ site.baseurl }}/downloads/revised COVID19_Safe Federal Workplace_Agency Model Safety Principles_20210728.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.
+- <span class="usa-tag">New</span> **Read the [COVID-19 Workplace Safety: Agency Model Safety Principles]({{ site.baseurl }}/downloads/revised COVID19_Safe Federal Workplace_Agency Model Safety Principles_20210728.pdf) (PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. Issued on July 29, 2021, it outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.
 
 - **Read the President’s [Executive Order on Protecting the Federal Workforce and Requiring Mask-Wearing](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing).** It establishes the Safer Federal Workforce Task Force and requires anyone working in or visiting federal buildings or federal lands to wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.
 
