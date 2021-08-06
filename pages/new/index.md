@@ -8,7 +8,7 @@ layout: page
 
 ### August 6, 2021
 
-- Additional [FAQs for Vaccinations](../faq/vaccinations) regarding attestation
+- Additional [FAQs for Vaccinations](../faq/vaccinations) regarding attestation, new [FAQs for Labor Relations](../faq/labor), and new [FAQs for Local Conditions](../faq/local)
 
 ### July 29, 2021
 
