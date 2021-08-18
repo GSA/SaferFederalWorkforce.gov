@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### August 18, 2021
+
+- Additional [FAQs for Testing](../faq/testing)
+
 ### August 6, 2021
 
 - Additional [FAQs for Vaccinations](../faq/vaccinations) regarding attestation, new [FAQs for Labor Relations](../faq/labor-relations), and new [FAQs for Local Conditions](../faq/local)
