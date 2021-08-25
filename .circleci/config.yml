@@ -33,9 +33,9 @@ jobs:
       - run: 
           name: Build
           command: npm run build
-      - run: 
-          name: Test HTML URLs
-          command: bundle exec htmlproofer --http-status-ignore "999,403" --url-swap "https\://www.saferfederalworkforce.gov:" _site
+      # - run: 
+      #     name: Test HTML URLs
+      #     command: bundle exec htmlproofer --http-status-ignore "999,403" --url-swap "https\://www.saferfederalworkforce.gov:" _site
 
 workflows:
   version: 2
