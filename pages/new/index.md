@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### August 25, 2021
+
+- Updated [FAQs for Vaccine-related leave](../faq/leave)
+
 ### August 18, 2021
 
 - Additional [FAQs for Testing](../faq/testing)
