@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### September 3, 2021
+
+- Updated FAQs for [Leave](../faq/leave), [Vaccinations](../faq/vaccinations), and [Building Ops](../faq/building-ops)
+
 ### August 25, 2021
 
 - Updated [FAQs for Vaccine-related leave](../faq/leave)
