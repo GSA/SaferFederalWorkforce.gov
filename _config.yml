@@ -27,24 +27,19 @@ ga:
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-#searchgov:
+searchgov:
 
   # You should not change this.
-  #endpoint: https://search.usa.gov
+  endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  #affiliate: federalist-uswds-example
+  affiliate: TBD
 
   # replace with your access key
-  #access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: TBD
 
   # this renders the results within the page instead of sending to user to search.gov
-  #inline: true
-
-##########################################################################################
-# The values below here are more advanced and should only be
-# changed if you know what they do
-##########################################################################################
+  inline: true
 
 collections:
   pages:
@@ -87,9 +82,6 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-
-  # excluded to disable, but may add back later
-  - search
 
 assets:
   sources:

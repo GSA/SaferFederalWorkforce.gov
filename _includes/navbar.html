@@ -34,9 +34,9 @@
         {% endunless %}
         {% endfor %}
       </ul>
-      <!-- <div class="usa-nav__secondary">
+      <div class="usa-nav__secondary">
         {% include searchgov/form.html searchgov=site.searchgov %}
-      </div> -->
+      </div>
     </div>
   </nav>
 
@@ -48,6 +48,9 @@
         {% include nav/sections.html sections=site.data.nav.mobile %}
       </ul>
     </div>
-  </nav>
+    <div class="usa-nav__secondary">
+      {% include searchgov/form.html searchgov=site.searchgov %}
+    </div>
+</nav>
 
 </header>
