@@ -23,17 +23,17 @@ mobile:
 faq:
   - text: Overview
     href: /faq/
-  - href: /faq/local/
-  - href: /faq/testing/
+  - href: /faq/building-ops/
+  - href: /faq/facilities/
   - text: Labor Relations
     href: /faq/labor-relations/
   - href: /faq/leave/
-  - href: /faq/facilities/
+  - href: /faq/local/
   - href: /faq/mask-wearing/
-  - href: /faq/visitors/
   - href: /faq/signage/
-  - href: /faq/building-ops/
   - href: /faq/screening/
+  - href: /faq/testing/
   - text: Travel
     href: /faq/travel/
   - href: /faq/vaccinations/
+  - href: /faq/visitors/
