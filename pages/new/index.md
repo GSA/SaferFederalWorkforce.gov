@@ -9,6 +9,7 @@ layout: page
 ### September 13, 2021
 
 - Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview/) and also various new and updated FAQs
+- _NOTE_: Implementation guidance on the President’s Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees is forthcoming and will be released soon by the Task Force.
 
 ### September 3, 2021
 
@@ -25,10 +26,6 @@ layout: page
 ### August 6, 2021
 
 - Additional [FAQs for Vaccinations](../faq/vaccinations/) regarding attestation, new [FAQs for Labor Relations](../faq/labor-relations/), and new [FAQs for Local Conditions](../faq/local/)
-
-### July 29, 2021
-
-- Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview/) and also various new and updated FAQs
 
 ### June 24, 2021
 
