@@ -12,7 +12,7 @@ The President created the Task Force to give the heads of federal agencies ongoi
 
 The following are key guidance documents issued by the Task Force or OMB, related to the Task Force’s mission. Further guidance from the Task Force can be found in the [Frequently Asked Questions (FAQs)](../faq/) section of this website.
 
-- <span class="usa-tag">New</span> **Read the [COVID-19 Workplace Safety: Agency Model Safety Principles]({{ site.baseurl }}/downloads/updates to model safety principles 9.13.21.docx) (Updated September 13, 2021; PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.
+- <span class="usa-tag">New</span> **Read the [COVID-19 Workplace Safety: Agency Model Safety Principles]({{ site.baseurl }}/downloads/updates to model safety principles 9.13.21.pdf) (Updated September 13, 2021; PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.
 
 - <span class="usa-tag">New</span> **Read the President’s [Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/) (Signed September 9, 2021).** It requires COVID-19 vaccination for federal executive branch employees.
 
