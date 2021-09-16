@@ -6,6 +6,10 @@ layout: page
 
 # What's New?
 
+### September 16, 2021
+
+- New and updated FAQs for [Vaccinations](../faq/vaccinations/)
+
 ### September 13, 2021
 
 - Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview/) and also various new and updated FAQs
