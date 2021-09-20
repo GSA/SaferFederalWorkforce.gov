@@ -2,6 +2,7 @@
 permalink: /overview/
 title: Protecting the Federal Workforce During the COVID-19 Pandemic
 layout: page
+lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB, related to the Task Force’s mission
 ---
 
 # Protecting the Federal Workforce During the COVID-19 Pandemic
