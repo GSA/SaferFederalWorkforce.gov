@@ -2,6 +2,7 @@
 permalink: /new/
 title: What's New?
 layout: page
+lead: Site changes and guidance updates
 ---
 
 # What's New?
