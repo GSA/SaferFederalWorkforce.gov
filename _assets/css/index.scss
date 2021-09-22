@@ -119,7 +119,7 @@ ol.search-results {
 
   .search-result-url {
     @include u-font-size("body", "2xs");
-    color: color("base-light");
+    color: color("base");
     //line-height: 1;
   }
 
