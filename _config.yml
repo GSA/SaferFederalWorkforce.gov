@@ -27,7 +27,6 @@ searchgov:
   endpoint: https://search.usa.gov  # You should not change this.
   affiliate: sfw
   access_key: Z9HImZxhu_7RpoY9_2Jd3M1xIofk6orwv-u1aOPnvfI=
-  inline: true  # this renders the results within the page instead of sending to user to search.gov
 
 collections:
   pages:
