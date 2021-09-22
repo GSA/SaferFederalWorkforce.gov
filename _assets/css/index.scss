@@ -99,6 +99,16 @@ body {
   height: 65px;
 }
 
+// SEARCH (desktop)
+.usa-search .usa-button {
+  border-width: 0;
+  background-color: color("secondary");
+}
+
+.usa-search .usa-input {
+  border-width: 0;
+}
+
 // SIDE NAV
 .sidenav-mobile {
 
@@ -110,8 +120,17 @@ body {
     margin-top: units(4);
   }
 
-  .usa-button {
+  // search
+  .usa-search .usa-button {
     margin-top: units(0);
+    background-color: color("primary");
+    border-width: 1px;
+    border-left-width: 0;
+  }
+
+  .usa-search .usa-input {
+    border-width: 1px;
+    border-right-width: 0;
   }
 }
 
