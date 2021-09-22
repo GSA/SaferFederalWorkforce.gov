@@ -4,7 +4,7 @@
 
 {% if site.searchgov %}
   {% if site.searchgov.inline == true %}
-    <form id="{{include.uid}}" class="usa-search usa-search--small" action="{{site.url}}/search/" accept-charset="UTF-8" method="get">
+    <form id="{{include.uid}}" class="usa-search usa-search--small" action="{{site.baseurl}}/search/" accept-charset="UTF-8" method="get">
   {% else %}
     <form id="{{include.uid}}" class="usa-search usa-search--small" action="{{site.searchgov.endpoint}}/search" accept-charset="UTF-8" method="get">
   {% endif %}
