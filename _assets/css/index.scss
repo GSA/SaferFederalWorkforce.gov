@@ -106,6 +106,9 @@ body {
 
 .usa-search .usa-input {
   border-width: 0;
+  border-radius: 0;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
 }
 
 ol.search-results {
@@ -154,6 +157,8 @@ ol.search-results {
     border-width: 1px;
     border-right-width: 0;
     border-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
   }
 }
 
