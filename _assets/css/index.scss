@@ -90,10 +90,6 @@ body {
   }
 }
 
-// .usa-header--extended .usa-nav {
-//   border-style: none;
-// }
-
 .usa-header--extended .usa-menu-btn {
   background-color: color("secondary");
   height: 65px;
@@ -103,10 +99,15 @@ body {
 .usa-search .usa-button {
   border-width: 0;
   background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
 }
 
 .usa-search .usa-input {
   border-width: 0;
+  border-radius: 0;
 }
 
 // SIDE NAV
@@ -193,6 +194,10 @@ body {
 
 .usa-hero__callout .usa-button {
   background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
 }
 
 .usa-summary-box {
