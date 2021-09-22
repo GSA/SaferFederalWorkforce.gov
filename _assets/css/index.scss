@@ -154,6 +154,7 @@ ol.search-results {
   }
 
   .usa-search .usa-input {
+    -webkit-appearance: none;  // fixes iOS override
     border-width: 1px;
     border-right-width: 0;
     border-radius: 0;
