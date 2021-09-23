@@ -31,11 +31,16 @@ sitemap: false
             </div>
             <div class="search-result-title">
               <a href="${posts.web.results[item]['url']}">
-                ${posts.web.results[item]['title'].replace(/\uE000/g, '').replace(/\uE001/g, '')}
+                ${posts.web.results[item]['title']
+                  .replace(' | {{site.title}}', '')
+                  .replace(/\uE000/g, '')
+                  .replace(/\uE001/g, '')}
               </a>
             </div>
             <div class="search-result-snippet">
-              ${posts.web.results[item]['snippet'].replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>')} 
+              ${posts.web.results[item]['snippet']
+                .replace(/\uE000/g, '<strong>')
+                .replace(/\uE001/g, '</strong>')} 
             </div>
           </li>
           `, true)
