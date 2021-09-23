@@ -18,11 +18,19 @@ sitemap: false
   }
 
 
-  Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]))
+  Object.keys(params)
+  .forEach(key => searchEndpoint.searchParams.append(key, params[key]))
 
-  fetch(searchEndpoint).then(function (res) {
+  fetch(searchEndpoint)
+  .then(function (res) {
     return res.json()
-  }).then(function (posts) {
+  })
+  .then(function (posts) {
+
+    // render search box with prior search term
+    document.getElementById('results-extended-search-field-small').value = params.query;
+
+    // render results
     for (item in posts.web.results) {
       render_result(`
           <li>
@@ -51,10 +59,10 @@ sitemap: false
     console.log('parsing failed', ex);
   }).finally(function (e) {
 
+    // no results scenario
     if (document.getElementById('search-results').childNodes.length == 0) {
       render_result(`<h4 style="padding-left:10px;">No results found</h4>`, false)
     }
-
   })
 
   function render_result(content, append = true) {
@@ -65,8 +73,10 @@ sitemap: false
 //]]>
 </script>
 
-
 {% if site.searchgov %}
+<div id="search-box" class="search-body margin-bottom-3">
+  {% include searchgov/form.html uid="results" %}
+</div>
 <h1 style="margin-top:0 !important;">Search Results</h1>
 <ol id="search-results" class="search-results"></ol>
 {% else %}

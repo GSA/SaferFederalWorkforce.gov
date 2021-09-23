@@ -112,6 +112,14 @@ body {
   border-bottom-left-radius: 0.25rem;
 }
 
+.search-body {
+  .usa-search .usa-input {
+    border-color: color("base");
+    border-right-width: 0;
+    border-width: 1px;
+  }
+}
+
 ol.search-results {
   list-style-type: none;
   padding: 0;
