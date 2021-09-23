@@ -105,7 +105,7 @@ body {
 }
 
 .usa-search .usa-input {
-  -webkit-appearance: none;  // fixes iOS override
+  -webkit-appearance: none; // fixes iOS override
   border-width: 0;
   border-radius: 0;
   border-top-left-radius: 0.25rem;
@@ -123,12 +123,24 @@ ol.search-results {
   .search-result-url {
     @include u-font-size("body", "2xs");
     color: color("base");
-    //line-height: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    a,
+    a:active,
+    a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
   }
 
   .search-result-title {
     @include u-font-size("body", "md");
     font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .search-result-snippet {
@@ -155,7 +167,7 @@ ol.search-results {
   }
 
   .usa-search .usa-input {
-    -webkit-appearance: none;  // fixes iOS override
+    -webkit-appearance: none; // fixes iOS override
     border-width: 1px;
     border-right-width: 0;
     border-radius: 0;
