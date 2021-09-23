@@ -12,7 +12,7 @@ $theme-color-primary-family: "indigo-cool";
 $theme-color-primary-lightest: false;
 $theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
 $theme-color-primary-light: "#{$theme-color-primary-family}-30";
-$theme-color-primary:  "#{$theme-color-primary-family}-70v"; //"blue-60";
+$theme-color-primary: "#{$theme-color-primary-family}-70v"; //"blue-60";
 $theme-color-primary-vivid: "#{$theme-color-primary-family}-60v";
 $theme-color-primary-dark: "#{$theme-color-primary-family}-80v";
 $theme-color-primary-darker: "#{$theme-color-primary-family}-70v"; //"blue-warm-80v";
@@ -31,7 +31,6 @@ $theme-color-secondary-darkest: false;
 
 $theme-show-notifications: false;
 @import "uswds";
-
 
 // TEMPLATE
 
@@ -66,21 +65,21 @@ body {
 
 // NAV MENUS
 .usa-header--extended .usa-navbar {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   height: auto;
   max-width: unset;
   border-style: none;
   background-color: color("primary");
 
   .usa-logo {
-    margin:0;
-    height:auto;
-    line-height:0;
+    margin: 0;
+    height: auto;
+    line-height: 0;
     overflow: hidden;
 
     img {
-      max-height:65px;
+      max-height: 65px;
       width: auto;
     }
 
@@ -90,18 +89,75 @@ body {
   }
 }
 
-// .usa-header--extended .usa-nav {
-//   border-style: none;
-// }
-
 .usa-header--extended .usa-menu-btn {
   background-color: color("secondary");
   height: 65px;
 }
 
+// SEARCH (desktop)
+.usa-search .usa-button {
+  border-width: 0;
+  background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
+}
+
+.usa-search .usa-input {
+  -webkit-appearance: none; // fixes iOS override
+  border-width: 0;
+  border-radius: 0;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.search-body {
+  .usa-search .usa-input {
+    border-color: color("base");
+    border-right-width: 0;
+    border-width: 1px;
+  }
+}
+
+ol.search-results {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 1.4em;
+  }
+
+  .search-result-url {
+    @include u-font-size("body", "2xs");
+    color: color("base");
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    a,
+    a:active,
+    a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+
+  .search-result-title {
+    @include u-font-size("body", "md");
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .search-result-snippet {
+    @include u-font-size("body", "sm");
+  }
+}
+
 // SIDE NAV
 .sidenav-mobile {
-
   @include at-media("desktop") {
     display: none;
   }
@@ -110,8 +166,21 @@ body {
     margin-top: units(4);
   }
 
-  .usa-button {
-    margin-top: units(1);
+  // search
+  .usa-search .usa-button {
+    margin-top: units(0);
+    background-color: color("primary");
+    border-width: 1px;
+    border-left-width: 0;
+  }
+
+  .usa-search .usa-input {
+    -webkit-appearance: none; // fixes iOS override
+    border-width: 1px;
+    border-right-width: 0;
+    border-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
   }
 }
 
@@ -134,12 +203,17 @@ body {
   }
 }
 
+.usa-nav__secondary {
+  // to reposition search box
+  bottom: 3.9rem;
+}
 
 // BODY
 
 .usa-prose {
-
-  p, ul li, ol li {
+  p,
+  ul li,
+  ol li {
     max-width: unset;
   }
 }
@@ -152,7 +226,6 @@ body {
 }
 
 .usa-table {
-
   .text-center {
     text-align: center;
   }
@@ -162,18 +235,22 @@ body {
   margin-right: 6px;
 }
 
-.new-tag {  // small red "new"
+.new-tag {
+  // small red "new"
   font-size: 0.7em;
   font-weight: bold;
   color: color("secondary");
   margin-right: 6px;
 }
 
-
 // CONTENT
 
 .usa-hero__callout .usa-button {
   background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
 }
 
 .usa-summary-box {
@@ -197,7 +274,7 @@ body {
   a {
     text-decoration: underline;
 
-    &:hover{
+    &:hover {
       color: color("primary");
     }
   }
@@ -206,7 +283,6 @@ body {
 .usa-footer__secondary-section {
   background-color: unset;
 }
-
 
 // default mode hide banner
 .usa-banner__content {

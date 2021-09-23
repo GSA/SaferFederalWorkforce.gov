@@ -34,15 +34,18 @@
         {% endunless %}
         {% endfor %}
       </ul>
-      <!-- <div class="usa-nav__secondary">
-        {% include searchgov/form.html searchgov=site.searchgov %}
-      </div> -->
+      <div class="usa-nav__secondary">
+        {% include searchgov/form.html uid="desktop" %}
+      </div>
     </div>
   </nav>
 
   <!-- mobile view -->
   <nav role="navigation" class="usa-nav site-nav sidenav-mobile">
     <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
+    <div class="usa-nav__secondary">
+      {% include searchgov/form.html uid="mobile" %}
+    </div>
     <div class="usa-nav__inner">
       <ul class="usa-nav__primary usa-accordion">
         {% include nav/sections.html sections=site.data.nav.mobile %}
