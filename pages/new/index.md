@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 ### September 24, 2021
 
-- New [Guidance for Federal Contractors and Subcontractors](../overview/)
+- New [Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Draft contractor guidance doc_20210922.pdf)
 
 ### September 16, 2021
 
@@ -17,7 +17,7 @@ lead: Site changes and guidance updates
 
 ### September 13, 2021
 
-- Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles](../overview/) and also various new and updated FAQs
+- Updates to [COVID-19 Workplace Safety: Agency Model Safety Principles]({{site.baseurl}}/downloads/updates to model safety principles 9.13.21.pdf) and also various new and updated FAQs
 - _NOTE: Implementation guidance on the President’s Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees is forthcoming and will be released soon by the Task Force._
 
 ### September 3, 2021
@@ -67,12 +67,12 @@ lead: Site changes and guidance updates
 
 ### April 12, 2021
 
-- [Federal Testing Plan for Federal Workforce](../overview/)
+- [Federal Testing Plan for Federal Workforce]({{site.baseurl}}/downloads/Federal Testing Recommendations FINAL.pdf)
 
 ### February 12, 2021
 
-- [FAQs for Executive Order 13991 and OMB memo M-21-15](../overview/)
+- [FAQs for Executive Order 13991 and OMB memo M-21-15](https://www.whitehouse.gov/wp-content/uploads/2021/01/M-21-15.pdf)
 
 ### January 20, 2021
 
-- The President issues [Executive Order 13991](../overview/)
+- The President issues [Executive Order 13991](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing)
