@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+### September 24, 2021
+
+- New [Guidance for Federal Contractors and Subcontractors](../overview/)
+
 ### September 16, 2021
 
 - New and updated FAQs for [Vaccinations](../faq/vaccinations/)
