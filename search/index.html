@@ -42,9 +42,10 @@ sitemap: false
             <div class="search-result-title">
               <a href="${posts.web.results[item]['url']}">
                 ${posts.web.results[item]['title']
-                  .replace(' | {{site.title}}', '')
                   .replace(/\uE000/g, '')
-                  .replace(/\uE001/g, '')}
+                  .replace(/\uE001/g, '')
+                  .replace(' | {{site.title}}', '')
+                  }
               </a>
             </div>
             <div class="search-result-snippet">
