@@ -6,6 +6,8 @@ primary:
     url: /overview/
   - name: FAQs
     url: /faq/
+  - name: For Federal Contractors
+    url: /contractors/
   - name: What's New?
     url: /new/
 
@@ -24,6 +26,8 @@ faq:
   - text: Overview
     href: /faq/
   - href: /faq/building-ops/
+  - text: Contractors
+    href: /faq/contractors/
   - href: /faq/facilities/
   - text: Labor Relations
     href: /faq/labor-relations/
