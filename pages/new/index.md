@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+### September 30, 2021
+
+- New [overview for Federal Contractors](../contractors) and [FAQs for Federal Contractors](../faq/contractors)
+
 ### September 24, 2021
 
 - New [Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Draft contractor guidance doc_20210922.pdf)
