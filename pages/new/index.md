@@ -14,7 +14,7 @@ lead: Site changes and guidance updates
 
 ### September 30, 2021
 
-- New [overview for Federal Contractors](../contractors) and [FAQs for Federal Contractors](../faq/contractors)
+- New [overview for Federal Contractors](../contractors/) and [FAQs for Federal Contractors](../faq/contractors/)
 
 ### September 24, 2021
 
