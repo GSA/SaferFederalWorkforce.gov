@@ -10,6 +10,7 @@ lead: Site changes and guidance updates
 ### October 1, 2021
 
 - New and updated FAQs for [Vaccinations](../faq/vaccinations/)
+- New [guidance for agencies from the FAR Council](https://www.saferfederalworkforce.gov/contractors/) pursuant to Executive Order [14042](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-ensuring-adequate-covid-safety-protocols-for-federal-contractors/), _Ensuring Adequate COVID Safety Protocols for Federal Contractors_
 
 ### September 30, 2021
 
