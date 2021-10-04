@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 ### October 4, 2021
 
-- New and updated FAQs for [Vaccination](../faq/vaccinations/) exceptions
+- New FAQs for [Vaccinations](../faq/vaccinations/) (on Limited Exceptions to Vaccination Requirement and on Vaccination Documentation and Information)
 
 ### October 1, 2021
 
