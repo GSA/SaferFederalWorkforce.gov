@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+### October 21, 2021
+
+- New FAQs for [Vaccinations](../faq/vaccinations/) and [Contractors](../faq/contractors/)
+
 ### October 4, 2021
 
 - New FAQs for [Vaccinations](../faq/vaccinations/) (on _Limited Exceptions to Vaccination Requirement_ and on _Vaccination Documentation and Information_)
