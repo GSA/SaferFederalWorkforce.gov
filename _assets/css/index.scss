@@ -266,6 +266,11 @@ ol.search-results {
   }
 }
 
+// custom what's new date header
+h2.whats-new-date {
+  @include u-font("serif", "lg");
+}
+
 // highlighter background style
 .tbd,
 .highlighter {
