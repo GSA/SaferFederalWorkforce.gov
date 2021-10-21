@@ -80,8 +80,6 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    liquid-c (4.0.0)
-      liquid (>= 3.0.0)
     liquid-tag-parser (1.9.0)
       extras (~> 0.3)
       liquid (>= 3.0, < 5.0)
@@ -138,7 +136,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
-  liquid-c
   sprockets (~> 3.7)
   tzinfo-data
 
