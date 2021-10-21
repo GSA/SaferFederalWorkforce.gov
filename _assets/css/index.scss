@@ -258,9 +258,12 @@ ol.search-results {
   border-color: color("primary");
 }
 
-.usa-summary-box__body h4 {
-  margin-top: 0;
-  margin-bottom: 0;
+.usa-summary-box__body {
+  .usa-summary-box__heading {
+    @include u-font("sans", "md");
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
 
 // highlighter background style
