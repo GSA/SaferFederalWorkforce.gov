@@ -10,7 +10,7 @@ layout: base
       <aside class="sidenav desktop:grid-col-3">
         {% assign sidenav = site.data.nav[page.category] %}
         {% if sidenav %}
-        <ul class="site-sidenav usa-sidenav">
+        <ul class="site-sidenav usa-sidenav usa-sticky-sidenav">
           {% include nav/list.html links=sidenav %}
         </ul>
         {% endif %}
