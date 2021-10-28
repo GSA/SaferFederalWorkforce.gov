@@ -10,5 +10,8 @@
         "**/package-lock.json": true,
         "**/node_modules": true,
     },
-    "sass.format.enabled": true
+    "sass.format.enabled": true,
+    "cSpell.words": [
+        "Moderna"
+    ]
 }
