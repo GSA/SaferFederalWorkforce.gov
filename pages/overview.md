@@ -13,7 +13,7 @@ The President created the Task Force to give the heads of federal agencies ongoi
 
 The following are key guidance documents issued by the Task Force or OMB, related to the Task Force’s mission. Further guidance from the Task Force can be found in the [Frequently Asked Questions (FAQs)](../faq/) section of this website.
 
-- <span class="usa-tag">Updated</span> **Read the [COVID-19 Workplace Safety: Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Guidance for Federal Contractors_Safer Federal Workforce Task Force_20211110.pdf)  (Issued November 10, 2021; PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It sets forth workplace safety protocols for Federal contractors and subcontractors pursuant to Executive Order 14042 (Ensuring Adequate COVID Safety Protocols for Federal Contractors).
+- <span class="usa-tag">Updated</span> **Read the [COVID-19 Workplace Safety: Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Guidance for Federal Contractors_Safer Federal Workforce Task Force_20211110.pdf)  (Updated November 10, 2021; PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It sets forth workplace safety protocols for Federal contractors and subcontractors pursuant to Executive Order 14042 (Ensuring Adequate COVID Safety Protocols for Federal Contractors).
 
 - **Read the [COVID-19 Workplace Safety: Agency Model Safety Principles]({{site.baseurl}}/downloads/updates to model safety principles 9.13.21.pdf) (Updated September 13, 2021; PDF, [Download Adobe Reader](https://get2.adobe.com/reader/))**. It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.
 
