@@ -60,17 +60,18 @@ include:
 
 exclude:
   - .jekyll-cache
+  - .github
+  - node_modules
+  - vendor
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
   - package.json
   - package-lock.json
   - README.md
   - CONTRIBUTING.md
   - LICENSE.md
-  - degit.json
-  - vendor
-  - node_modules
-  - Gemfile
-  - Gemfile.lock
-  - docker-compose.yml
 
 assets:
   sources:
