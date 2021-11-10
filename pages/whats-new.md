@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">November 10, 2021</h2>
+
+- New Guidance for Federal Contractors and Subcontractors and [Updated FAQs for Contractors](../faq/contractors/)
+
 <h2 class="whats-new-date">November 1, 2021</h2>
 
 - New FAQs for [Contractors](../faq/contractors/)
