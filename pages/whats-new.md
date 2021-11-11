@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">November 10, 2021</h2>
 
-- Updated [Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Guidance for Federal Contractors_Safer Federal Workforce Task Force_20211110.pdf) and New and Updated FAQs for [Contractors](../faq/contractors/)
+- Updated [Guidance for Federal Contractors and Subcontractors]({{site.baseurl}}/downloads/Guidance for Federal Contractors_Safer Federal Workforce Task Force_20211110.pdf) _(note: a revised PDF was posted on November 11, 2021 that corrected an inadvertent typographical error.)_ and new and updated FAQs for [Contractors](../faq/contractors/)
 
 <h2 class="whats-new-date">November 1, 2021</h2>
 
