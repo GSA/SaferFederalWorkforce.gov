@@ -236,17 +236,14 @@ ol.search-results {
   }
 }
 
+.usa-tag {
+  white-space: nowrap;
+}
+
 .usa-tag:only-of-type {
   margin-right: 6px;
 }
 
-.new-tag {
-  // small red "new"
-  font-size: 0.7em;
-  font-weight: bold;
-  color: color("secondary");
-  margin-right: 6px;
-}
 
 // CONTENT
 
