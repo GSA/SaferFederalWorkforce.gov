@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">November 19, 2021</h2>
 
-- New and updated FAQs for [Vaccinations](../faq/vaccinations/)
+- New and updated FAQs for [Vaccinations](../faq/vaccinations/) and [Contractors](../faq/contractors/)
 
 <h2 class="whats-new-date">November 10, 2021</h2>
 
