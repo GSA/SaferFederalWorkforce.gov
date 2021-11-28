@@ -83,20 +83,6 @@ Note that when built by Federalist, `npm run federalist` is used instead of
 `npm run build`.  Open your web browser to [localhost:4000](http://localhost:4000/) to view your
 site.
 
-## Testing with locally installed `node` and `ruby`
-
-```bash
-npm test
-    OR
-bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
-```
-
-### Testing with Docker
-
-```bash
-docker-compose run ruby bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
-```
-
 ## Technologies you should be familiarize yourself with
 
 - [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
