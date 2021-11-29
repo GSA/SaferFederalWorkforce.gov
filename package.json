@@ -17,14 +17,14 @@
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve --livereload",
     "start-detached": "bundle exec jekyll serve --detach",
-    "test-links": "bundle exec htmlproofer --http-status-ignore '999' _site;",
+    "test-links": "bundle exec htmlproofer --http-status-ignore '403,999' _site;",
     "test-a11y": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-find https://www.saferfederalworkforce.gov --sitemap-replace http://localhost:4000 --sitemap-exclude \"/*.pdf\""
   },
   "dependencies": {
-    "uswds": "~2.10.3"
+    "uswds": "~2.12.2"
   },
   "devDependencies": {
-    "pa11y-ci": "^2.4.2",
+    "pa11y-ci": "^3.0.0",
     "rimraf": "^3.0.2"
   }
 }
