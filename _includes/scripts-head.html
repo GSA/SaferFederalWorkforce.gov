@@ -1,11 +1,11 @@
-{% if site.dap.agency %}
+{% if site.dap.agency and site.branch == "main" %}
 <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
 <script async id="_fed_an_ua_tag"
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}">
 </script>
 {% endif %}
 
-{% if site.ga.ua %}
+{% if site.ga.ua and site.branch == "main" %}
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga.ua }}"></script>
 <script>
@@ -21,6 +21,3 @@
   gtag('config', '{{ site.ga.ua }}', { 'anonymize_ip': true, 'forceSSL': true });
 </script>
 {% endif %}
-
-{% asset uswds.min.js %}
-{% asset app.js %}
