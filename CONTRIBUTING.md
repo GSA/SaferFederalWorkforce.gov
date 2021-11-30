@@ -126,7 +126,7 @@ brew install chruby ruby-install
 ### Ruby
 
 ```bash
-ruby-install ruby 2.6.6
+ruby-install ruby 2.7.4
 ```
 
 After Ruby is installed, add these 2 lines on ~/.bash_profile. If you're using ZSH as your shell, add these to ~/.zshrc.
@@ -145,7 +145,7 @@ To get to the editor of .zshrc:
 To use a specific version of Ruby:
 
 ```bash
-chruby 2.6.6
+chruby 2.7.4
 ```
 
 #### Troubleshooting Ruby
