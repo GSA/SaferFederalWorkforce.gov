@@ -8,6 +8,8 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    autoprefixer-rails (9.8.6.5)
+      execjs
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
@@ -59,6 +61,8 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
@@ -137,6 +141,7 @@ DEPENDENCIES
   html-proofer (~> 3.19)
   jekyll (~> 3.9)
   jekyll-assets (~> 3.0)
+  jekyll-autoprefixer
   jekyll-feed (~> 0.15)
   jekyll-include-cache
   jekyll-last-modified-at
