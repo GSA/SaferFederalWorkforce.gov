@@ -30,9 +30,6 @@ searchgov:
   inline: true  # this renders the results within the page instead of sending to user to search.gov
 
 collections:
-  pages:
-    output: true
-    permalink: /:path/
   faq:
     output: true
     permalink: /:path/
