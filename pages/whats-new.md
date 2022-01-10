@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">January 10, 2022</h2>
 
-- New and updated FAQs for [Vaccinations](../faq/vaccinations/) and [Testing](../faq/testing/)
+- New and updated FAQs for [Testing](../faq/testing/) and [Vaccinations](../faq/vaccinations/)
 
 <h2 class="whats-new-date">December 9, 2021</h2>
 
