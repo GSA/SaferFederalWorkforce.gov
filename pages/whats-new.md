@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">January 11, 2022</h2>
+
+- New and updated FAQs for [Testing](../faq/testing/) and [Vaccinations](../faq/vaccinations/)
+
 <h2 class="whats-new-date">December 9, 2021</h2>
 
 - Updated [overview for Federal Contractors](../contractors)
