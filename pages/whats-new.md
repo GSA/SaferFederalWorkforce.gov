@@ -7,7 +7,7 @@ lead: Site changes and guidance updates
 
 # What's New?
 
-<h2 class="whats-new-date">January 10, 2022</h2>
+<h2 class="whats-new-date">January 11, 2022</h2>
 
 - New and updated FAQs for [Testing](../faq/testing/) and [Vaccinations](../faq/vaccinations/)
 
