@@ -95,7 +95,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     mini_portile2 (2.8.0)
-    mini_racer (0.6.2)
+    mini_racer (0.5.0)
       libv8-node (~> 16.10.0.0)
     minitest (5.15.0)
     nokogiri (1.13.3)
@@ -149,7 +149,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
-  mini_racer
+  mini_racer (<= 0.5.0)
   sprockets (~> 3.7)
   tzinfo-data
 

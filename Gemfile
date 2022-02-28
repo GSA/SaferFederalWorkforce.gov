@@ -3,7 +3,7 @@ ruby ">= 2.7.4"
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9"
-gem "mini_racer"
+gem "mini_racer", "<=0.5.0"  # may not work with 0.6.x
 gem "sprockets", "~> 3.7"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
