@@ -17,7 +17,6 @@ On September 9, President Biden signed Executive Order 14042, [Ensuring Adequate
 - **Read [Frequently Asked Questions for Federal Contractors](../faq/contractors).**
 
 <br>
-<span class="usa-tag">New</span>
 **Regarding Applicable Court Orders and Injunctions:** The Office of Management and Budget has issued guidance on implementing requirements of Executive Order 14042 while ensuring compliance with applicable court orders and injunctions, including those that are preliminary and may be supplemented, modified, or vacated, depending on the course of ongoing litigation.
 
 - **For existing contracts or contract-like instruments (hereinafter “contracts”) that contain a clause implementing requirements of Executive Order 14042:** The Government will take no action to enforce the clause implementing requirements of Executive Order 14042, absent further written notice from the agency, where the place of performance identified in the contract is in a U.S. state or outlying area subject to a court order prohibiting the application of requirements pursuant to the Executive Order (hereinafter, “Excluded State or Outlying Area”). In all other circumstances, the Government will enforce the clause, except for contractor employees who perform substantial work on or in connection with a covered contract in an Excluded State or Outlying Area, or in a covered contractor workplace located in an Excluded State or Outlying Area.
