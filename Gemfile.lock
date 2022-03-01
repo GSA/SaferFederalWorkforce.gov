@@ -149,7 +149,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
-  mini_racer (<= 0.4.0)
+  mini_racer (= 0.4.0)
   sprockets (~> 3.7)
   tzinfo-data
 
