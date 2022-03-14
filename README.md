@@ -1,16 +1,5 @@
 # Safer Federal Workforce
 
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
-
-  https://circleci.com/
-
-[![CircleCI](https://circleci.com/gh/GSA/SaferFederalWorkforce.gov.svg?style=svg)](https://app.circleci.com/pipelines/github/GSA/SaferFederalWorkforce.gov)
-[![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=GSA/SaferFederalWorkforce.gov)](https://dependabot.com)
--->
-
 The Safer Federal Workforce Task Force is led by the White House COVID-19 Response Team, the General Services Administration (GSA), and the Office of Personnel Management (OPM). Task Force members include: the Centers for Disease Control and Prevention (CDC), the Department of Veterans Affairs (VA), the Federal Emergency Management Agency (FEMA), the Federal Protective Service (FPS), the Office of Management and Budget (OMB), and the United States Secret Service (USSS).
 
 The President created the task force with [Executive Order 13991](https://www.federalregister.gov/d/2021-01766/p-12) to give the heads of federal agencies ongoing guidance to keep their employees safe and their agencies operating during the COVID-19 pandemic.
