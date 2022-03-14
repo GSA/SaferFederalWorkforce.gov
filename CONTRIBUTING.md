@@ -18,9 +18,7 @@ All contributions to this project will be released under the CC0 dedication. By 
 
 ## Development with Federalist + U.S. Web Design System + Jekyll
 
-This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
-
-This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby. If you prefer to use Javascript, check out [federalist-uswds-gatsby](https://github.com/18F/federalist-uswds-gatsby), which uses [Gatsby](https://gatsbyjs.org) site engine.
+This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v2](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.  This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby.  Primary build, deployment, and hosting are done through [Federalist](https://federalist.18f.gov/).
 
 This project strives to be compliant with requirements set by [21st Century IDEA Act](https://www.meritalk.com/articles/senate-passes-idea-act/). The standards require that a website or digital service:
 
@@ -33,23 +31,31 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 - allows for user customization; and
 - is mobile-friendly.
 
+## Affiliated services
+
+The site is augmented with several affiliated services that you may need to access; notably:
+
+- Google Analytics
+- Google Search Console
+- Digital Analytics Program (DAP)
+- Search.gov
+- Cloud.gov Pages (aka Federalist)
+
 ## How to edit
 
 - Non-developers should focus on editing markdown content in the `_faq` and `pages` folders
+
+- `index.html` contains the primary landing page, but may not require much editing.
 
 - We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
 
 - The contents inside `assets/` folder store your Javascript, SCSS/CSS, images, and other media assets are managed by  [jekyll-assets](https://github.com/envygeeks/jekyll-assets).  Assets are combined, compressed, and automatically available in your theme
 
-- If you look at `package.json` you will see that the `npm run federalist` command that will run when running on the Federalist platform.
-
 - Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
 
-- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and logos.
+- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and other general sections.
 
-- `index.html` may not require much editing, depending on how you customize `hero.html` and `highlights.html`.
-
-- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
+- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for basic page layout and printing the content.
 
 - `search/index.html` is used by search.gov.
 
@@ -79,9 +85,7 @@ To build but not serve the site, run:
 docker-compose run ruby bundle exec jekyll build
 ```
 
-Note that when built by Federalist, `npm run federalist` is used instead of
-`npm run build`.  Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
+Open your web browser to [127.0.0.1:4000](http://127.0.0.1:4000) or [localhost:4000](http://localhost:4000/) to view your site.
 
 ## Technologies you should be familiarize yourself with
 
@@ -203,7 +207,7 @@ Some helpful Git commands
 - `git branch` will show you what branches are available on local copy of repo
 - `git branch -r` will show you what branches are available on remote copy of repo
 
-Create new branch from current branch and checkout for editing:
+Create new branch from currently selected branch and checkout for editing.  Feature branches are usually branched from `main`.
 
 ```bash
 git checkout -b my-feature-branch
