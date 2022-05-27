@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">May 27, 2022</h2>
+
+- Updated Certification of [Vaccination](../faq/vaccinations) form
+
 <h2 class="whats-new-date">March 11, 2022</h2>
 
 - New FAQs on [Visitors](../faq/visitors), and updated FAQs on [Vaccinations](../faq/vaccinations) and [Contractors](../faq/contractors)
