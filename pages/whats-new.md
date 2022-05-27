@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">May 27, 2022</h2>
 
-- Updated Certification of [Vaccination](../faq/vaccinations) form
+- Updated Certification of [Vaccination](../downloads/CertificationVaccinationPRAv7.pdf) form
 
 <h2 class="whats-new-date">March 11, 2022</h2>
 
