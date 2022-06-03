@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">June 2, 2022</h2>
 
-- New and Updated FAQs on, [Exceptions](../faq/exceptions), [Leave](../faq/leave/), [Mask-Wearing](../faq/mask-wearing), [Official Travel](../faq/travel/), and [Testing](../faq/testing), and Updated FAQs on [Contractors](../faq/contractors), [Quarantine and Isolation](../faq/quarantine-and-isolation), [Symptom Screening](../faq/screening), [Vaccinations](../faq/vaccinations), and [Visitors](../faq/visitors)
+- New and Updated FAQs on [Exceptions](../faq/exceptions), [Leave](../faq/leave/), [Mask-Wearing](../faq/mask-wearing), [Official Travel](../faq/travel/), and [Testing](../faq/testing), and Updated FAQs on [Contractors](../faq/contractors), [Quarantine and Isolation](../faq/quarantine-and-isolation), [Symptom Screening](../faq/screening), [Vaccinations](../faq/vaccinations), and [Visitors](../faq/visitors)
 
 <h2 class="whats-new-date">May 27, 2022</h2>
 
