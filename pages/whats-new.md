@@ -7,6 +7,12 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">August 17, 2022</h2>
+
+- New <a href="{{site.baseurl}}/downloads/COVID-19 Community Levels_Guidance for Federal Agencies_20220817.pdf" target="_blank" rel="noopener">UPDATE LINK implementation guidance on updates to Federal agency COVID-19 Workplace Safety Protocols</a> (PDF, <a href="https://get2.adobe.com/reader/" target="_blank" rel="noopener">Download Adobe Reader</a>)
+- Updated implementation guidance on <a href="{{site.baseurl}}/downloads/COVID-19 Community Levels_Guidance for Federal Agencies_20220817.pdf" target="_blank" rel="noopener">COVID-19 Community Levels</a> (PDF, <a href="https://get2.adobe.com/reader/" target="_blank" rel="noopener">Download Adobe Reader</a>)
+- Updated implementation guidance on <a href="{{site.baseurl}}/downloads/Updated FAQs_compliance_injunction_EO 14043_20220817.pdf" target="_blank" rel="noopener">FAQs Related to Compliance with the Applicable Preliminary Nationwide Injunction on Implementation and Enforcement of the Vaccination Requirement Pursuant to Executive Order 14043</a> (PDF, <a href="https://get2.adobe.com/reader/" target="_blank" rel="noopener">Download Adobe Reader</a>)
+
 <h2 class="whats-new-date">June 3, 2022</h2>
 
 - New and Updated FAQs on [Exceptions](../faq/exceptions), [Leave](../faq/leave/), [Mask-Wearing](../faq/mask-wearing), [Official Travel](../faq/travel/), and [Testing](../faq/testing), and Updated FAQs on [Contractors](../faq/contractors), [Quarantine and Isolation](../faq/quarantine-and-isolation), [Symptom Screening](../faq/screening), [Vaccinations](../faq/vaccinations), and [Visitors](../faq/visitors)
