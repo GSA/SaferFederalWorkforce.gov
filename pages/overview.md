@@ -24,7 +24,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
                 </li>
             </ul>
         </ul>
-        <ul>
+        <ul> 
             <li><strong>Read the President&rsquo;s&nbsp;</strong><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-ensuring-adequate-covid-safety-protocols-for-federal-contractors/"><strong>Executive Order on Ensuring Adequate COVID Safety Protocols for Federal Contractors</strong></a><strong>&nbsp;(Signed September 9, 2021).</strong>&nbsp;It ensures that the parties that contract with the Federal Government provide adequate COVID-19 safeguards to their workers performing on or in connection with a Federal Government contract or contract-like instrument.</li>
             <ul>
                 <li><u>NOTE</u>: To ensure compliance with an applicable preliminary nationwide injunction, which may be supplemented, modified, or vacated, depending on the course of ongoing litigation, the Federal Government will take no action to implement or enforce Executive Order 14042. See <a href="https://www.saferfederalworkforce.gov/contractors">For Federal Contractors</a>.&nbsp;</li>
