@@ -9,11 +9,11 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">August 30, 2022</h2>
 
-- New FAQs on <a href="https://www.saferfederalworkforce.gov/faq/building-ops/"_blank" rel="noopener">Building Operations</a>
-- New and updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/mask-wearing/"_blank" rel="noopener">Mask-Wearing</a>, <a href="https://www.saferfederalworkforce.gov/faq/quarantine-and-isolation/"_blank" rel="noopener">Post-Exposure Precautions and Isolation</a>, <a href="https://www.saferfederalworkforce.gov/faq/signage/"_blank" rel="noopener">Signage</a>, <a href="https://www.saferfederalworkforce.gov/faq/testing/"_blank" rel="noopener">Testing</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/"_blank" rel="noopener">Vaccination</a>
-- Updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/contractors/"_blank" rel="noopener">Contractors</a>, <a href="https://www.saferfederalworkforce.gov/faq/exceptions/"_blank" rel="noopener">Exceptions</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/"_blank" rel="noopener">Leave</a>, <a href="https://www.saferfederalworkforce.gov/faq/screening/"_blank" rel="noopener">Symptom Screening</a>, <a href="https://www.saferfederalworkforce.gov/faq/travel/"_blank" rel="noopener">Travel</a>, and <a href="https://www.saferfederalworkforce.gov/faq/visitors/"_blank" rel="noopener">Visitors</a> (including Meetings, Events, and Conferences)
-- Updated <a href="https://www.saferfederalworkforce.gov/contractors/"_blank" rel="noopener">overview for Federal Contractors</a>
-- Updated <a href="https://www.saferfederalworkforce.gov/contractors/"_blank" rel="noopener">https://www.saferfederalworkforce.gov/overview/</a>
+- New FAQs on <a href="https://www.saferfederalworkforce.gov/faq/building-ops/">Building Operations</a>
+- New and updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/mask-wearing/">Mask-Wearing</a>, <a href="https://www.saferfederalworkforce.gov/faq/quarantine-and-isolation/">Post-Exposure Precautions and Isolation</a>, <a href="https://www.saferfederalworkforce.gov/faq/signage/">Signage</a>, <a href="https://www.saferfederalworkforce.gov/faq/testing/"_blank" rel="noopener">Testing</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Vaccination</a>
+- Updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/contractors/">Contractors</a>, <a href="https://www.saferfederalworkforce.gov/faq/exceptions/">Exceptions</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/">Leave</a>, <a href="https://www.saferfederalworkforce.gov/faq/screening/">Symptom Screening</a>, <a href="https://www.saferfederalworkforce.gov/faq/travel/">Travel</a>, and <a href="https://www.saferfederalworkforce.gov/faq/visitors/">Visitors</a> (including Meetings, Events, and Conferences)
+- Updated <a href="https://www.saferfederalworkforce.gov/contractors/">overview for Federal Contractors</a>
+- Updated <a href="https://www.saferfederalworkforce.gov/contractors/">https://www.saferfederalworkforce.gov/overview/</a>
  
 <h2 class="whats-new-date">August 17, 2022</h2>
 
