@@ -44,4 +44,4 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
         </ul>
        <ul>        
         <li><u>NOTE</u>: Federal agencies can reference updated Safer Federal Workforce Task Force <a href="https://www.saferfederalworkforce.gov/downloads/Initial%20Implementation%20Guidance_CDC%20Streamline_20220817.pdf">guidance</a> and <a href="https://www.saferfederalworkforce.gov/faq/testing/">FAQs</a> on screening testing, as well as updated <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html">CDC guidance on testing</a>.</li>
-       </ul><br>
+
