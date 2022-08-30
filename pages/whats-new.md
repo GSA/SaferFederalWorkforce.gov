@@ -15,7 +15,6 @@ lead: Site changes and guidance updates
 - Updated <a href="https://www.saferfederalworkforce.gov/contractors/"_blank" rel="noopener">overview for Federal Contractors</a>
 - Updated <a href="https://www.saferfederalworkforce.gov/contractors/"_blank" rel="noopener">https://www.saferfederalworkforce.gov/overview/</a>
  
-
 <h2 class="whats-new-date">August 17, 2022</h2>
 
 - New <a href="{{site.baseurl}}/downloads/Initial Implementation Guidance_CDC Streamline_20220817.pdf" target="_blank" rel="noopener"> implementation guidance on updates to Federal agency COVID-19 Workplace Safety Protocols</a> (PDF, <a href="https://get2.adobe.com/reader/" target="_blank" rel="noopener">Download Adobe Reader</a>)
