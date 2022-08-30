@@ -16,7 +16,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
     </ul>
     <p>
         <ul>
-            <li><strong>Read the President’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees</a> (Signed September 9, 2021)</strong> .It requires COVID-19 vaccination for Federal executive branch employees.
+            <li><strong>Read the President’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees</a> (Signed September 9, 2021)</strong>. It requires COVID-19 vaccination for Federal executive branch employees.
             </li>
             <ul>
                 <li>
