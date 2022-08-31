@@ -35,7 +35,6 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
                     <ul>
                         <li><u>NOTE</u>:&nbsp;Agencies should refer to the&nbsp;<a href="https://www.saferfederalworkforce.gov/new/">What&rsquo;s New?</a>&nbsp;page to review new and updated FAQs and guidance from the Task Force that support agencies in implementing CDC guidance updated since the publication of these model safety principles, pursuant to Executive Order 13991. Where the model safety principles and more recently updated FAQs or guidance conflict as they relate to specific workplace safety protocols, the information in the FAQs should be followed.</li>
 
- <p>
         <p><li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/Initial%20Implementation%20Guidance_CDC%20Streamline_20220817.pdf">implementation guidance</a>&nbsp;on updates to Federal agency COVID-19 Workplace Safety Protocols (Issued August 17, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)
       <li>Read <a href="https://www.saferfederalworkforce.gov/downloads/COVID-19%20Community%20Levels_Guidance%20for%20Federal%20Agencies_20220817.pdf">implementation guidance</a> on COVID-19 Community Levels (Updated August 17, 2022; Originally Issued February 28, 2022; PDF,<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
 
