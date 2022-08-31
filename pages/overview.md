@@ -45,3 +45,4 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
         <ul>
             <li><strong>Read OMB memo M-21-25:&nbsp;<a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf">Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment</a>&nbsp;(Issued June 10, 2021; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</strong>.&nbsp;It provides agencies with guidance for agency planning processes for safe reentry and post-reentry personnel policies and work environment.
             </li>
+                        </ul>
