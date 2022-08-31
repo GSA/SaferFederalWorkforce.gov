@@ -7,6 +7,14 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">August 31, 2022</h2>
+
+- New FAQs on <a href="https://www.saferfederalworkforce.gov/faq/building-ops/">Building Operations</a>
+- New and updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/mask-wearing/">Mask-Wearing</a>, <a href="https://www.saferfederalworkforce.gov/faq/quarantine-and-isolation/">Post-Exposure Precautions and Isolation</a>, <a href="https://www.saferfederalworkforce.gov/faq/signage/">Signage</a>, <a href="https://www.saferfederalworkforce.gov/faq/testing/">Testing</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Vaccination</a>
+- Updated FAQs on <a href="https://www.saferfederalworkforce.gov/faq/contractors/">Contractors</a>, <a href="https://www.saferfederalworkforce.gov/faq/exceptions/">Exceptions</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/">Leave</a>, <a href="https://www.saferfederalworkforce.gov/faq/screening/">Symptom Screening</a>, <a href="https://www.saferfederalworkforce.gov/faq/travel/">Travel</a>, and <a href="https://www.saferfederalworkforce.gov/faq/visitors/">Visitors</a> (including Meetings, Events, and Conferences)
+- Updated <a href="https://www.saferfederalworkforce.gov/contractors/">overview for Federal Contractors</a>
+- Updated <a href="https://www.saferfederalworkforce.gov/contractors/">overview on the Safer Federal Workforce Task Force</a>
+ 
 <h2 class="whats-new-date">August 17, 2022</h2>
 
 - New <a href="{{site.baseurl}}/downloads/Initial Implementation Guidance_CDC Streamline_20220817.pdf" target="_blank" rel="noopener"> implementation guidance on updates to Federal agency COVID-19 Workplace Safety Protocols</a> (PDF, <a href="https://get2.adobe.com/reader/" target="_blank" rel="noopener">Download Adobe Reader</a>)
