@@ -37,9 +37,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 
  <p>
         <p><li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/Initial%20Implementation%20Guidance_CDC%20Streamline_20220817.pdf">implementation guidance</a>&nbsp;on updates to Federal agency COVID-19 Workplace Safety Protocols (Issued August 17, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</p>
-      <li>Read <a href="https://www.saferfederalworkforce.gov/downloads/COVID-19%20Community%20Levels_Guidance%20for%20Federal%20Agencies_20220817.pdf">implementation guidance</a> on COVID-19 Community Levels (Updated August 17, 2022; Originally Issued February 28, 2022; PDF,<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li></ul>
+      <li>Read <a href="https://www.saferfederalworkforce.gov/downloads/COVID-19%20Community%20Levels_Guidance%20for%20Federal%20Agencies_20220817.pdf">implementation guidance</a> on COVID-19 Community Levels (Updated August 17, 2022; Originally Issued February 28, 2022; PDF,<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
+ </ul>
 
- <p>
-        <ul>
-            <li><strong>Read the President’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees</a> (Signed September 9, 2021)</strong>. It requires COVID-19 vaccination for Federal executive branch employees.
-            </li>
+<p><li><strong><strong>Read OMB memo M-21-25:&nbsp;<a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf">Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment</a>&nbsp;(Issued June 10, 2021; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</strong>.&nbsp;It provides agencies with guidance for agency planning processes for safe reentry and post-reentry personnel policies and work environment.</p>
