@@ -29,7 +29,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
             <ul>
                 <li><u>NOTE</u>: To ensure compliance with an applicable preliminary nationwide injunction, which may be supplemented, modified, or vacated, depending on the course of ongoing litigation, the Federal Government will take no action to implement or enforce Executive Order 14042. See <a href="https://www.saferfederalworkforce.gov/contractors">For Federal Contractors</a>.&nbsp;</li>
                 <li>Read the&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/Guidance%20for%20Federal%20Contractors_Safer%20Federal%20Workforce%20Task%20Force_20211110.pdf"><strong>COVID-19 Workplace Safety: Guidance for Federal Contractors and Subcontractors&nbsp;(Updated November 10, 2021; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</strong>. It sets forth workplace safety protocols for Federal contractors and subcontractors pursuant to Executive Order 14042 (Ensuring Adequate COVID Safety Protocols for Federal Contractors).&nbsp;<em>(Note: a revised PDF was posted on November 11, 2021 that corrected an inadvertent typographical error.)</em><br>
- <div>
+                    </ul>
  <ul>
         <li><strong>Read the&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/updates%20to%20model%20safety%20principles%209.13.21.pdf">COVID-19 Workplace Safety: Agency Model Safety Principles</a>&nbsp;(Updated September 13, 2021; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</strong>. It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.</li>
     </ul>
