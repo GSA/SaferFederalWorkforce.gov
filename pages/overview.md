@@ -11,16 +11,19 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 <p>The President created the Task Force to give the heads of Federal agencies ongoing guidance to keep their employees safe and their agencies operating during the COVID-19 pandemic.</p>
 <p>The following resources include Executive Orders, key guidance from documents issued by the Task Force, and key guidance from OMB, CDC, OPM, and the General Services Administration (GSA) related to the Task Force’s mission. Further guidance from the Task Force can be found in the <a href="https://www.saferfederalworkforce.gov/faq/">Frequently Asked Questions (FAQs)</a> section of this website. Agencies should refer to the <a href="https://www.saferfederalworkforce.gov/new/">What’s New?</a> page to review new and updated FAQs and guidance from the Task Force that support agencies in implementing CDC guidance and recommendations.</p>
 <p>
-    
+     <ul>
+        <li><b>Read the President’s  <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/">Executive Order on Protecting the Federal Workforce and Requiring Mask-Wearing)</a> (Signed January 20, 2021).</b> It establishes the Safer Federal Workforce Task Force and requires on-duty Federal employees, as well as anyone working in or visiting Federal buildings or Federal lands, to wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.</li>
+    </ul>
+    </p>
+    <p>
         <li><b>Read the&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/updates%20to%20model%20safety%20principles%209.13.21.pdf">Model Agency COVID-19 Model Safety Principles</a>&nbsp;(Updated September 15, 2022; PDF,</b>&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a><b>).</b> It outlines model safety principles for executive departments and agencies to revise their existing COVID-19 workplace safety plans.</li>
+    
             <ul>
                 <li>NOTE:&nbsp;Agencies should refer to the&nbsp;<a href="https://www.saferfederalworkforce.gov/new/">What&rsquo;s New?</a>&nbsp;page to review new and updated FAQs and guidance from the Task Force that support agencies in implementing CDC guidance updated since the publication of these model safety principles, pursuant to Executive Order 13991. Where the model safety principles and more recently updated FAQs or guidance conflict as they relate to specific workplace safety protocols, the information in the FAQs should be followed.</li>
                 <li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/Initial%20Implementation%20Guidance_CDC%20Streamline_20220817.pdf">implementation guidance</a> on updates to Federal agency COVID-19 Workplace Safety Protocols (Issued August 17, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
                 <li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/COVID-19%20Community%20Levels_Guidance%20for%20Federal%20Agencies_20220817.pdf">implementation guidance</a>&nbsp;on COVID-19 Community Levels (Updated August 17, 2022; Originally Issued February 28, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
                 </ul>
-    <ul>
-        <li><b>Read the President’s  <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/">Executive Order on Protecting the Federal Workforce and Requiring Mask-Wearing)</a> (Signed January 20, 2021).</b> It establishes the Safer Federal Workforce Task Force and requires on-duty Federal employees, as well as anyone working in or visiting Federal buildings or Federal lands, to wear masks, maintain physical distance, and adhere to other public health measures, as provided in CDC guidelines.</li>
-    </ul>
+                </p>
     <p>
         <ul>
             <li><strong>Read the President’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees</a> (Signed September 9, 2021).</strong> It requires COVID-19 vaccination for Federal executive branch employees.
