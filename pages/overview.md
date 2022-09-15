@@ -23,6 +23,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
                 <li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/Initial%20Implementation%20Guidance_CDC%20Streamline_20220817.pdf">implementation guidance</a> on updates to Federal agency COVID-19 Workplace Safety Protocols (Issued August 17, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
                 <li>Read&nbsp;<a href="https://www.saferfederalworkforce.gov/downloads/COVID-19%20Community%20Levels_Guidance%20for%20Federal%20Agencies_20220817.pdf">implementation guidance</a>&nbsp;on COVID-19 Community Levels (Updated August 17, 2022; Originally Issued February 28, 2022; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>)</li>
                 </ul>
+          </p>
     <p>
             <li><strong>Read the President’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees</a> (Signed September 9, 2021).</strong> It requires COVID-19 vaccination for Federal executive branch employees.
             </li>
@@ -31,6 +32,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
                     NOTE: To ensure compliance with an applicable preliminary nationwide injunction, which may be supplemented, modified, or vacated, depending on the course of ongoing litigation, the Federal Government will take no action to implement or enforce the COVID-19 vaccination requirement pursuant to Executive Order 14043 on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees. Safer Federal Workforce Task Force guidance on other Federal agency safety protocols remains in effect. For answers to frequently asked questions (FAQs) on compliance with the applicable preliminary nationwide injunction, see this <a href="https://www.saferfederalworkforce.gov/downloads/Updated%20FAQs_compliance_injunction_EO%2014043_20220817.pdf">guidance</a> (Updated August 17, 2022; Originally Issued January 24, 2022; PDF, <a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>).
                 </li>
             </ul>
+            </p>
         </ul>
         <ul>
             <li><strong>Read the President&rsquo;s&nbsp;</strong><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-ensuring-adequate-covid-safety-protocols-for-federal-contractors/"><strong>Executive Order on Ensuring Adequate COVID Safety Protocols for Federal Contractors</strong></a><strong>&nbsp;(Signed September 9, 2021).</strong>&nbsp;It ensures that the parties that contract with the Federal Government provide adequate COVID-19 safeguards to their workers performing on or in connection with a Federal Government contract or contract-like instrument.</li>
