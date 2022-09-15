@@ -7,10 +7,6 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 
 # Protecting the Federal Workforce During the COVID-19 Pandemic
 
-</style>
-
-</head>
-
 <body lang=EN-US link=blue vlink="#954F72" style='word-wrap:break-word'>
 
 <div class=WordSection1>
