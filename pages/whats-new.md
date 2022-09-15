@@ -7,6 +7,11 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">September 15, 2022</h2>
+
+- Updated <a href="{{site.baseurl}}/downloads/SFWTF_model agency safety principles_20220915.pdf" target="_blank" rel="noopener"> Model Agency COVID-19 Safety Principles</a>
+- Updates to FAQs on <a href="https://www.saferfederalworkforce.gov/faq/building-ops/">Building Operations</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/">Leave</a>, <a href="https://www.saferfederalworkforce.gov/faq/quarantine-and-isolation/">Post-Exposure Precautions and Isolation</a>, <a href="https://www.saferfederalworkforce.gov/faq/travel/">Travel</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Vaccination</a>
+
 <h2 class="whats-new-date">August 31, 2022</h2>
 
 - New FAQs on <a href="https://www.saferfederalworkforce.gov/faq/building-ops/">Building Operations</a>
