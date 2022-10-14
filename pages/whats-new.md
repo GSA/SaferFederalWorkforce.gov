@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">October 14, 2022</h2>
+
+-<p><a href="https://www.saferfederalworkforce.gov/contractors/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.saferfederalworkforce.gov/contractors/&amp;source=gmail&amp;ust=1665852762461000&amp;usg=AOvVaw2kL00OvKjJvcEgz8wI6jHD">Update on Executive Order 14042</a>&nbsp;(Ensuring Adequate COVID Safety Protocols for Federal Contractors)</p>
+
 <h2 class="whats-new-date">September 15, 2022</h2>
 
 - Updated <a href="{{site.baseurl}}/downloads/SFWTF_model agency safety principles_20220915.pdf" target="_blank" rel="noopener"> Model Agency COVID-19 Safety Principles</a>
