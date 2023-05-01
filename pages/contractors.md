@@ -7,11 +7,11 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 
 
 # {{page.title}}
+
 <div
   class="usa-summary-box"
   role="region"
-  aria-labelledby="summary-box-key-information"
->
+  aria-labelledby="summary-box-key-information">
   
    <div class="usa-summary-box__body">
    <div class="usa-summary-box__text"> 
