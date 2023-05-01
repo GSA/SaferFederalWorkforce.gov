@@ -7,22 +7,21 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 
 
 # {{page.title}}
-
 <div
   class="usa-summary-box"
   role="region"
-  aria-labelledby="summary-box-key-information">
-  
-   <div class="usa-summary-box__body">
-   <div class="usa-summary-box__text"> 
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
         <p>On May 1, 2023, the Biden Administration announced its plans to end certain Federal COVID-19 vaccination requirements, including those for Federal employees and Federal contractors, at the end of the day on May 11. In the coming days, President Biden will be issuing an Executive Order rescinding the vaccination requirement for Federal employees and COVID-19 safety protocols for Federal contractors, effective at 12:01 am on May 12, 2023.</p>
         <p>In the interim, agencies should continue to take no action to implement or enforce the COVID-19 vaccination requirement pursuant to Executive Order 14043 on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees to ensure compliance with the applicable preliminary nationwide injunction.</p>
         <p>Similarly, with respect to Executive Order 14042 on Ensuring Adequate COVID Safety Protocols for Federal Contractors, agencies should not take any steps to require covered contractors and subcontractors to come into compliance with previously issued Safer Federal Task Force guidance, or enforce any contract clauses implementing Executive Order 14042.</p>
         <p>The Safer Federal Workforce Task Force will issue further guidance following an Executive Order.</p>
+    </div>
   </div>
-  </div>
-  </div>
-
+</div>
+<br />
 
 <div
   class="usa-summary-box"
