@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">May 1, 2023</h2>
+
+- Update on <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Executive Order 14043</a> and <a href="https://www.saferfederalworkforce.gov/contractors/">Executive Order 14042</a>
+ 
 <h2 class="whats-new-date">October 19, 2022</h2>
 
 - <a href="https://www.saferfederalworkforce.gov/contractors/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.saferfederalworkforce.gov/contractors/&amp;source=gmail&amp;ust=1665852762461000&amp;usg=AOvVaw2kL00OvKjJvcEgz8wI6jHD">Update on Executive Order 14042</a>&nbsp;(Ensuring Adequate COVID Safety Protocols for Federal Contractors)
