@@ -7,6 +7,13 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">May 12, 2023</h2>
+
+- On May 9, 2023, President Biden signed Executive Order XXXX [add link] revoking Executive Orders 14042 and 14043, effective 12:01 AM EST on May 12, 2023. 
+- Effective May 12, 2023, all prior guidance from the Safer Federal Workforce Task Force implementing the requirements of Executive Orders 14042 and 14043, and the FAR Council’s September 30, 2021 guidance regarding deviations to the FAR to implement Executive Order 14042, has also been revoked.
+- Updates to FAQs on <a href="https://www.saferfederalworkforce.gov/faq/contractors/">Contractors</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/">Leave</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Vaccination</a>
+- Updated <a href="https://www.saferfederalworkforce.gov/contractors/"> overview for Federal Contractors</a>
+
 <h2 class="whats-new-date">May 1, 2023</h2>
 
 - Update on <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Executive Order 14043</a> and <a href="https://www.saferfederalworkforce.gov/contractors/">Executive Order 14042</a>
