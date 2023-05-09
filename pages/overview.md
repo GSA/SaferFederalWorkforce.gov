@@ -22,6 +22,9 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 </ul>
 </ul>
 <ul>
+<li><strong>Read the President's Executive ORder on Moving Beyond Vaccination Requirements for Federal Workers (Signed May 9, 2023)</strong> It revokes, as of 12:01 AM EST on May 12, 2023, Executive Order 14042, which had required certain parties contracting with the Federal Government to provide COVID-19 safeguards to their workers, and Executive Order 14043, which had required vaccination for Federal executive branch employees.</li>
+</ul>
+<ul>
 <li><strong>Read OMB memo M-21-25:&nbsp;</strong><a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf"><strong>Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment</strong></a><strong>&nbsp;(Issued June 10, 2021; PDF,&nbsp;</strong><a href="https://get2.adobe.com/reader/">Download Adobe Reader</a><strong>).</strong>&nbsp;It provides agencies with guidance for agency planning processes for safe reentry and post-reentry personnel policies and work environment.</li>
 <ul>
 <li>Read OMB memo M-21-15:&nbsp;<a href="https://www.whitehouse.gov/wp-content/uploads/2021/01/M-21-15.pdf">COVID-19 Safe Federal Workplace: Agency Model Safety Principles</a>&nbsp;(Issued January 24, 2021; PDF,&nbsp;<a href="https://get2.adobe.com/reader/">Download Adobe Reader</a>) for a description of the work of the Safer Federal Workforce Task Force and the original outline of model safety principles for executive departments and agencies as they built tailored COVID-19 workplace safety plans.<br /><br /></li>
