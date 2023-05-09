@@ -15,7 +15,6 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
   <div class="usa-summary-box__body">
     <div class="usa-summary-box__text">
       <p><strong>Update:</strong> On May 12, 2023, President Biden signed an Executive Order [add link] revoking Executive Order 14042, which had required certain parties contracting with the Federal Government to provide specified COVID-19 safeguards to their workers. Effective May 12, 2023, all prior guidance from the Safer Federal Workforce Task Force implementing the requirements of Executive Order 14042 has also been revoked. Pursuant to the Executive Order, the Federal Government will not take any steps to require covered contractors and subcontractors to come into compliance with previously issued Task Force guidance implementing Executive Order 14042, and will not enforce any existing contract clauses implementing Executive Order 14042. Agencies must promptly rescind any deviations, policies, or other guidance premised on Executive Order 14042, and the FAR Council has revoked its September 30, 2021 guidance regarding deviations to the FAR to implement Executive Order 14042.</p>
-        <p>In the interim, agencies should continue to take no action to implement or enforce the COVID-19 vaccination requirement pursuant to Executive Order 14043 on Requiring Coronavirus Disease 2019 Vaccination for Federal Employees to ensure compliance with the applicable preliminary nationwide injunction.</p>
     </div>
   </div>
 </div>
