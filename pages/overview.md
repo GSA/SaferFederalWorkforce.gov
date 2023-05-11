@@ -22,7 +22,7 @@ lead: Guidance documents issued by the Safer Federal Workforce Task Force or OMB
 </ul>
 </ul>
 <ul>
-<li><strong>Read the President's Executive Order on Moving Beyond Vaccination Requirements for Federal Workers (Signed May 9, 2023).</strong> It revokes, as of 12:01 AM EST on May 12, 2023, Executive Order 14042, which had required certain parties contracting with the Federal Government to provide COVID-19 safeguards to their workers, and Executive Order 14043, which had required vaccination for Federal executive branch employees.</li>
+<li><strong>Read the President's <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/executive-order-on-moving-beyond-covid-19-vaccination-requirements-for-federal-workers/">Executive Order on Moving Beyond Vaccination Requirements for Federal Workers</a> (Signed May 9, 2023).</strong> It revokes, as of 12:01 AM EST on May 12, 2023, Executive Order 14042, which had required certain parties contracting with the Federal Government to provide COVID-19 safeguards to their workers, and Executive Order 14043, which had required vaccination for Federal executive branch employees.</li>
 </ul>
 <ul>
 <li><strong>Read OMB memo M-21-25:&nbsp;</strong><a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-25.pdf"><strong>Integrating Planning for A Safe Increased Return of Federal Employees and Contractors to Physical Workplaces with Post-Reentry Personnel Policies and Work Environment</strong></a><strong>&nbsp;(Issued June 10, 2021; PDF,&nbsp;</strong><a href="https://get2.adobe.com/reader/">Download Adobe Reader</a><strong>).</strong>&nbsp;It provides agencies with guidance for agency planning processes for safe reentry and post-reentry personnel policies and work environment.</li>
