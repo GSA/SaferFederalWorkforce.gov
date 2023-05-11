@@ -9,7 +9,7 @@ lead: Site changes and guidance updates
 
 <h2 class="whats-new-date">May 12, 2023</h2>
 
-- On May 9, 2023, President Biden signed Executive Order XXXX [add link] revoking Executive Orders 14042 and 14043, effective 12:01 AM EST on May 12, 2023. 
+- On May 9, 2023, President Biden signed as <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/executive-order-on-moving-beyond-covid-19-vaccination-requirements-for-federal-workers/">Executive Order on Moving Beyond COVID-19 Vaccination Requirements for Federal Workers</a> revoking Executive Orders 14042 and 14043, effective 12:01 AM EST on May 12, 2023. 
 - Effective May 12, 2023, all prior guidance from the Safer Federal Workforce Task Force implementing the requirements of Executive Orders 14042 and 14043, and the FAR Council’s September 30, 2021 guidance regarding deviations to the FAR to implement Executive Order 14042, has also been revoked.
 - Updates to FAQs on <a href="https://www.saferfederalworkforce.gov/faq/contractors/">Contractors</a>, <a href="https://www.saferfederalworkforce.gov/faq/leave/">Leave</a>, and <a href="https://www.saferfederalworkforce.gov/faq/vaccinations/">Vaccination</a>
 - Updated <a href="https://www.saferfederalworkforce.gov/contractors/"> overview for Federal Contractors </a>
