@@ -13,7 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   gem "jekyll-autoprefixer"
-  gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets", ref: "refs/pull/666/head"
+  gem "jekyll-assets"
   gem "jekyll-include-cache"
 end
 
