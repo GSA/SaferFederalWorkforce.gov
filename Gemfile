@@ -1,9 +1,9 @@
-ruby ">= 2.7.4"
+ruby ">= 3.1.4"
 
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9"
-gem "mini_racer", "0.4.0"  # may not work with newer
+gem "mini_racer", "0.5.0"  # may not work with newer
 gem "sprockets", "~> 3.7"
 gem "kramdown-parser-gfm", "~> 1.1.0"
 
