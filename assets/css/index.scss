@@ -1,0 +1,314 @@
+---
+---
+// https://jekyllrb.com/docs/assets/
+/*
+  Customize US Web Design System SASS
+  See all at designsystem.digital.gov/documentation/settings
+*/
+
+// Background image in the hero component
+$theme-hero-image: "../images/hero-background.webp";
+
+// Primary colors
+
+$theme-color-primary-family: "indigo-cool";
+$theme-color-primary-lightest: false;
+$theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
+$theme-color-primary-light: "#{$theme-color-primary-family}-30";
+$theme-color-primary: "#{$theme-color-primary-family}-70v"; //"blue-60";
+$theme-color-primary-vivid: "#{$theme-color-primary-family}-60v";
+
+$theme-color-primary-dark: "indigo-cool-80v";
+$theme-color-primary-darker: "indigo-cool-70v";
+
+$theme-color-primary-darkest: false;
+
+// Secondary colors
+$theme-color-secondary-family: "red";
+$theme-color-secondary-lightest: false;
+$theme-color-secondary-lighter: "red-cool-10";
+$theme-color-secondary-light: "red-30";
+$theme-color-secondary: "red-50v"; //"red-50";
+$theme-color-secondary-vivid: "red-cool-50v";
+$theme-color-secondary-dark: "red-60v";
+$theme-color-secondary-darker: "red-70v";
+$theme-color-secondary-darkest: false;
+
+$theme-show-notifications: false;
+@import "uswds";
+
+// TEMPLATE
+
+body {
+  /*  always show vertical scrollbar to prevent page jerk */
+  overflow-y: scroll;
+}
+
+// NAV MENUS
+.usa-header--extended .usa-navbar {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  max-width: unset;
+  border-style: none;
+  background-color: color("primary");
+
+  .usa-logo {
+    margin: 0;
+    height: auto;
+    line-height: 0;
+    overflow: hidden;
+
+    img {
+      max-height: 65px;
+      width: auto;
+    }
+
+    a:focus {
+      outline: none;
+    }
+  }
+}
+
+.usa-header--extended .usa-menu-btn {
+  background-color: color("secondary");
+  height: 65px;
+}
+
+// SEARCH (desktop)
+.usa-search .usa-button {
+  border-width: 0;
+  background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
+}
+
+.usa-search .usa-input {
+  -webkit-appearance: none; // fixes iOS override
+  border-width: 0;
+  border-radius: 0;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.search-body {
+  .usa-search .usa-input {
+    border-color: color("base");
+    border-right-width: 0;
+    border-width: 1px;
+  }
+}
+
+ol.search-results {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 1.4em;
+  }
+
+  .search-result-url {
+    @include u-font-size("body", "2xs");
+    color: color("base");
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    a,
+    a:active,
+    a:visited {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+
+  .search-result-title {
+    @include u-font-size("body", "md");
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .search-result-snippet {
+    @include u-font-size("body", "sm");
+  }
+}
+
+// SIDE NAV
+.sidenav-mobile {
+  @include at-media("desktop") {
+    display: none;
+  }
+
+  .usa-button-list {
+    margin-top: units(4);
+  }
+
+  // search
+  .usa-search .usa-button {
+    margin-top: units(0);
+    background-color: color("primary");
+    border-width: 1px;
+    border-left-width: 0;
+  }
+
+  .usa-search .usa-input {
+    -webkit-appearance: none; // fixes iOS override
+    border-width: 1px;
+    border-right-width: 0;
+    border-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+}
+
+.sidenav {
+  display: none;
+
+  @include at-media("desktop") {
+    display: block;
+    float: left;
+    margin-bottom: units(1);
+    margin-top: units(0);
+    padding-right: units(0);
+    padding-left: units(0);
+  }
+
+  .usa-navigation-submenu {
+    &[aria-hidden="false"] {
+      display: block;
+    }
+  }
+
+  .usa-sticky-sidenav {
+    position: sticky;
+    top: 16px;
+  }
+}
+
+.usa-nav__secondary {
+  // to reposition search box
+  bottom: 3.9rem;
+}
+
+// BODY
+
+.usa-prose {
+  p,
+  ul li,
+  ol li {
+    max-width: unset;
+  }
+}
+
+.usa-graphic-list__heading {
+  a {
+    color: unset;
+    text-decoration: unset;
+  }
+}
+
+.usa-table {
+  .text-center {
+    text-align: center;
+  }
+}
+
+.usa-tag {
+  white-space: nowrap;
+}
+
+.usa-tag:only-of-type {
+  margin-right: 6px;
+}
+
+
+// CONTENT
+
+.usa-hero__callout .usa-button {
+  background-color: color("secondary");
+
+  &:hover {
+    background-color: color("secondary-dark");
+  }
+}
+
+.usa-summary-box {
+  background-color: unset;
+  border-color: color("primary");
+}
+
+.usa-summary-box__body {
+  .usa-summary-box__heading {
+    @include u-font("sans", "md");
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+// custom what's new date header
+h2.whats-new-date {
+  @include u-font("serif", "lg");
+}
+
+// highlighter background style
+.tbd,
+.highlighter {
+  background-color: rgba(222, 244, 64, 90%);
+}
+
+// FOOTER
+
+.usa-footer--slim .usa-footer__address {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.usa-footer__contact-info {
+  a {
+    text-decoration: underline;
+
+    &:hover {
+      color: color("primary");
+    }
+  }
+}
+
+.usa-footer__secondary-section {
+  background-color: unset;
+}
+
+// default mode hide banner
+.usa-banner__content {
+  display: hidden;
+}
+
+@media screen and (min-width: 640px) {
+  .tablet\:width-1\/3 {
+    width: 33%;
+  }
+  .tablet\:float-left {
+    float: left;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  .paginate-link {
+    display: initial;
+  }
+  .paginate-button {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .paginate-link {
+    display: none;
+  }
+  .paginate-button {
+    display: block;
+  }
+}
