@@ -70,12 +70,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE.md
 
-assets:
-  sources:
-    - node_modules/uswds/dist/img
-    - node_modules/uswds/dist/js
-    - node_modules/uswds/dist/scss
-
 autoprefixer:
   browsers:
     - last 2 versions
