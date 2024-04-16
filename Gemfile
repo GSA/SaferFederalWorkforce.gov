@@ -25,6 +25,7 @@ gem "kramdown-parser-gfm", "~> 1.1.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-last-modified-at" # used in sitemap
   gem 'jekyll-redirect-from'
   gem 'jekyll-paginate-v2', "3.0.0"
   gem 'jekyll-sitemap'
