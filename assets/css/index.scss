@@ -7,9 +7,9 @@
 */
 
 // Background image in the hero component
-// $theme-hero-image: asset_path("hero-background.webp");
+//$theme-hero-image: asset_path("hero-background.webp");
 
-// // Primary colors
+// Primary colors
 
 // $theme-color-primary-family: "indigo-cool";
 // $theme-color-primary-lightest: false;
@@ -21,18 +21,18 @@
 // $theme-color-primary-darker: "#{$theme-color-primary-family}-70v"; //"blue-warm-80v";
 // $theme-color-primary-darkest: false;
 
-// // Secondary colors
-// $theme-color-secondary-family: "red";
-// $theme-color-secondary-lightest: false;
-// $theme-color-secondary-lighter: "red-cool-10";
-// $theme-color-secondary-light: "red-30";
-// $theme-color-secondary: "red-50v"; //"red-50";
-// $theme-color-secondary-vivid: "red-cool-50v";
-// $theme-color-secondary-dark: "red-60v";
-// $theme-color-secondary-darker: "red-70v";
-// $theme-color-secondary-darkest: false;
+// Secondary colors
+$theme-color-secondary-family: "red";
+$theme-color-secondary-lightest: false;
+$theme-color-secondary-lighter: "red-cool-10";
+$theme-color-secondary-light: "red-30";
+$theme-color-secondary: "red-50v"; //"red-50";
+$theme-color-secondary-vivid: "red-cool-50v";
+$theme-color-secondary-dark: "red-60v";
+$theme-color-secondary-darker: "red-70v";
+$theme-color-secondary-darkest: false;
 
-// $theme-show-notifications: false;
+$theme-show-notifications: false;
 @import "uswds";
 
 // TEMPLATE
