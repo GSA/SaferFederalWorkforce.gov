@@ -11,10 +11,10 @@ $theme-hero-image: asset_path("hero-background.webp");
 
 // Primary colors
 
-// $theme-color-primary-family: "indigo-cool";
-// $theme-color-primary-lightest: false;
-// $theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
-// $theme-color-primary-light: "#{$theme-color-primary-family}-30";
+$theme-color-primary-family: "indigo-cool";
+$theme-color-primary-lightest: false;
+$theme-color-primary-lighter: "#{$theme-color-primary-family}-10";
+$theme-color-primary-light: "#{$theme-color-primary-family}-30";
 // $theme-color-primary: "#{$theme-color-primary-family}-70v"; //"blue-60";
 // $theme-color-primary-vivid: "#{$theme-color-primary-family}-60v";
 // $theme-color-primary-dark: "#{$theme-color-primary-family}-80v";
