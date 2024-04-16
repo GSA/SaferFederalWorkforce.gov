@@ -7,6 +7,10 @@ lead: Site changes and guidance updates
 
 # What's New?
 
+<h2 class="whats-new-date">April 12, 2024</h2>
+
+- <b>Note:</b> On April 12, 2024, President Biden <a href="https://www.whitehouse.gov/wp-content/uploads/2024/04/M-24-12-Regarding-COVID-19-Safe-Federal-Workplace.pdf" target="_blank">revoked</a> the 2021 executive order that had established the Safer Federal Workforce Task Force. As a result, the Safer Federal Workforce Task Force no longer exists and this website will no longer be updated. This website is preserved as it existed on April 12, 2024, for archival purposes only.
+
 <h2 class="whats-new-date">May 12, 2023</h2>
 
 - On May 9, 2023, President Biden signed an <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/executive-order-on-moving-beyond-covid-19-vaccination-requirements-for-federal-workers/">Executive Order on Moving Beyond COVID-19 Vaccination Requirements for Federal Workers</a> revoking Executive Orders 14042 and 14043, effective 12:01 AM EST on May 12, 2023. 
